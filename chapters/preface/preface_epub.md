@@ -111,8 +111,8 @@ H.T.P.
 
 * **A** [The Nepaul Himalaya.](https://flic.kr/p/2niuPrN)
 * **B** [The Baltoro Valley.](https://flic.kr/p/2nivsAp)
-* **C** Panorama taken from the ridge forming the angle between the Baltoro and the Godwin Austen Glaciers.
-* **D** Panorama taken from a Western spur of the Gasherbrum.
+* **C** [Panorama taken from the ridge forming the angle between the Baltoro and the Godwin Austen Glaciers.](https://flic.kr/p/2niqbj2)
+* **D** [Panorama taken from a Western spur of the Gasherbrum.](https://flic.kr/p/2niqgtf)
 * **E** West side of K 2.
 * **F** Panorama looking South and South-Eastward from a ridge to the East of the Sella Pass.
 * **G** Looking North and West from Windy Gap.
@@ -152,8 +152,8 @@ H.T.P.
 * [Sunset from the Rocks above Rdokass.](ch014.xhtml#b201)
 * [Masherbrum from the Baltoro.](ch015.xhtml#b211)
 * [Gasherbrum.](ch015.xhtml#b213)
-* From a western spur of Gasherbrum.
-* Camp at the Base of the Southern Wall of  K^2^ .
+* [From a western spur of Gasherbrum.](ch016.xhtml#b224)
+* [Camp at the Base of the Southern Wall of K^2^.](ch016.xhtml#b233)
 * Broad Peak at Sunset.
 * Western Wall of  K^2^  from the Savoia Glacier.
 * Broad Peak from Camp VI.
@@ -305,15 +305,15 @@ H.T.P.
 * [Mitre Peak from the Camp between Rdokass and the Concordia.](ch015.xhtml#b213)
 * [The Marble Peak at the corner between the Godwin Austen and the Baltoro.](ch015.xhtml#b216)
 * [First sight of K^2^.](ch015.xhtml#b217)
-* Mitre Peak from the Corner between the Baltoro and the Godwin Austen.
-* Southern view of K^2^.
-* Lower Peaks of the Gasherbrum peaks.
-* Bride Peak from the Godwin-Austen, near the Concordia
-* The Western Face of Broad Peak.
-* Southern Wall of K^2^.
-* The Base Camp and Right Wall of the Savoia Glacier.
-* The Duke leaving the base Camp.
-* Southern Ridge of K^2^.
+* [Mitre Peak from the Corner between the Baltoro and the Godwin Austen.](ch016.xhtml#b220)
+* [Southern view of K^2^.](ch016.xhtml#b221)
+* [Lower Peaks of the Gasherbrum peaks.](ch016.xhtml#b222)
+* [Bride Peak from the Godwin-Austen, near the Concordia.](ch016.xhtml#b223)
+* [The Western Face of Broad Peak.](ch016.xhtml#b227)
+* [Southern Wall of K^2^.](ch016.xhtml#b230)
+* [The Base Camp and Right Wall of the Savoia Glacier.](ch016.xhtml#b232)
+* [The Duke leaving the base Camp.](ch016.xhtml#b235)
+* [Southern Ridge of K^2^.](ch016.xhtml#b236)
 * The Mouth of the Savoia Glacier.
 * Terminal Cascade of the Savoia.
 * A sérac at the Edge of the Savoia Glacier.
