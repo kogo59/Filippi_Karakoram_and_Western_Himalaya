@@ -49,7 +49,7 @@ chains; while the basin which receives them all is only two and a half miles in
 diameter, and the Baltoro valley itself, into which the whole mass is
 compressed, less than two miles broad. The entrance to the latter is guarded by
 two characteristic heights—to the north Conway’s Angle Peak,^[^1303]^ a marble summit
-20,088 feet high: and to the south the bizarre tooth-shaped Mitre Peak. 20.462
+20,088 feet high: and to the south the bizarre tooth-shaped Mitre Peak. 20,462
 feet high, entirely composed of black schist.
 
 :::: { .wrap-80 }
@@ -628,6 +628,10 @@ gone down to several degrees below freezing, and we reluctantly turned from the
 splendour of the moonlit night to take refuge in our warm sleeping-bags.
 
 On the morrow would begin the execution of a new plan of campaign.
+
+:::: { .wrap-100 }
+![Broad Peak at Sunset.](Karakoram_240.jpg "Broad Peak at Sunset."){#b240}
+::::
 
 :::
 

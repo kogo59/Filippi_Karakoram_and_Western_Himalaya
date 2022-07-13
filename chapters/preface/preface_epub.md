@@ -113,7 +113,7 @@ H.T.P.
 * **B** [The Baltoro Valley.](https://flic.kr/p/2nivsAp)
 * **C** [Panorama taken from the ridge forming the angle between the Baltoro and the Godwin Austen Glaciers.](https://flic.kr/p/2niqbj2)
 * **D** [Panorama taken from a Western spur of the Gasherbrum.](https://flic.kr/p/2niqgtf)
-* **E** West side of K 2.
+* **E** [West side of K 2.](https://flic.kr/p/2niqk1k)
 * **F** Panorama looking South and South-Eastward from a ridge to the East of the Sella Pass.
 * **G** Looking North and West from Windy Gap.
 * **H** Looking North-East from Windy Gap.
@@ -154,8 +154,8 @@ H.T.P.
 * [Gasherbrum.](ch015.xhtml#b213)
 * [From a western spur of Gasherbrum.](ch016.xhtml#b224)
 * [Camp at the Base of the Southern Wall of K^2^.](ch016.xhtml#b233)
-* Broad Peak at Sunset.
-* Western Wall of  K^2^  from the Savoia Glacier.
+* [Broad Peak at Sunset.](ch016.xhtml#b240)
+* [Western Wall of  K^2^ from the Savoia Glacier.](ch016.xhtml#b248)
 * Broad Peak from Camp VI.
 * K^2^  as seen from the East, on the Rocks above Camp VI.
 * Staircase Peak from Windy Gap.
@@ -314,11 +314,11 @@ H.T.P.
 * [The Base Camp and Right Wall of the Savoia Glacier.](ch016.xhtml#b232)
 * [The Duke leaving the base Camp.](ch016.xhtml#b235)
 * [Southern Ridge of K^2^.](ch016.xhtml#b236)
-* The Mouth of the Savoia Glacier.
-* Terminal Cascade of the Savoia.
-* A sérac at the Edge of the Savoia Glacier.
-* Western Wall of Broad Peak from the Top of the Terminal Cascade of the Savoia.
-* Mitre Peak from the Lower Godwin Austen.
+* [The Mouth of the Savoia Glacier.](ch017.xhtml#b242)
+* [Terminal Cascade of the Savoia.](ch017.xhtml#b243)
+* [A sérac at the Edge of the Savoia Glacier.](ch017.xhtml#b244)
+* [Western Wall of Broad Peak from the Top of the Terminal Cascade of the Savoia.](ch017.xhtml#b245)
+* [Mitre Peak from the Lower Godwin Austen.](ch017.xhtml#b251)
 * Eastern Side of K^2^ as seen from Camp VI.
 * Camp VI and Staircase Peak.
 * First Step of the Godwin Austen Glacier, and Sella Pass.
