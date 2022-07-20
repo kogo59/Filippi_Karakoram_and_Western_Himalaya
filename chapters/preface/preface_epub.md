@@ -114,10 +114,10 @@ H.T.P.
 * **C** [Panorama taken from the ridge forming the angle between the Baltoro and the Godwin Austen Glaciers.](https://flic.kr/p/2niqbj2)
 * **D** [Panorama taken from a Western spur of the Gasherbrum.](https://flic.kr/p/2niqgtf)
 * **E** [West side of K 2.](https://flic.kr/p/2niqk1k)
-* **F** Panorama looking South and South-Eastward from a ridge to the East of the Sella Pass.
-* **G** Looking North and West from Windy Gap.
-* **H** Looking North-East from Windy Gap.
-* **I** From the Southern ridge of the Staircase Peak.
+* **F** [Panorama looking South and South-Eastward from a ridge to the East of the Sella Pass.](https://flic.kr/p/2niw1X5)
+* **G** [Looking North and West from Windy Gap.](https://flic.kr/p/2nivUR5)
+* **H** [Looking North-East from Windy Gap.](https://flic.kr/p/2niw7EC)
+* **I** [From the Southern ridge of the Staircase Peak.](https://flic.kr/p/2niyw2W)
 * **K** [From the central moraine of the Upper Baltoro Glacier.](https://flic.kr/p/2niyD77)
 * **L** Telephotograph from Camp XI.
 * **M** From the terminal rocks of the East buttress of the Vigne Glacier.
@@ -156,9 +156,9 @@ H.T.P.
 * [Camp at the Base of the Southern Wall of K^2^.](ch016.xhtml#b233)
 * [Broad Peak at Sunset.](ch016.xhtml#b240)
 * [Western Wall of  K^2^ from the Savoia Glacier.](ch016.xhtml#b248)
-* Broad Peak from Camp VI.
-* K^2^  as seen from the East, on the Rocks above Camp VI.
-* Staircase Peak from Windy Gap.
+* [Broad Peak from Camp VI.](ch018.xhtml#b254)
+* [K^2^ as seen from the East, on the Rocks above Camp VI.](ch018.xhtml#b259)
+* [Staircase Peak from Windy Gap.](ch018.xhtml#b270)
 * K^2^  seen from the South, by telephotography.
 * Bride Peak, from Camp III.
 * K^2^  from the Concordia Amphitheatre.
@@ -319,16 +319,16 @@ H.T.P.
 * [A sérac at the Edge of the Savoia Glacier.](ch017.xhtml#b244)
 * [Western Wall of Broad Peak from the Top of the Terminal Cascade of the Savoia.](ch017.xhtml#b245)
 * [Mitre Peak from the Lower Godwin Austen.](ch017.xhtml#b251)
-* Eastern Side of K^2^ as seen from Camp VI.
-* Camp VI and Staircase Peak.
-* First Step of the Godwin Austen Glacier, and Sella Pass.
-* Teram Kangri from the Eastern Side of Sella Pass.
-* Staircase Peak and the End of the north-eastern Spar of K^2^.
-* Staircase Peak, the End of the north-eastern Ridge of K^2^, and the opening on Staircase basin.
-* Windy Gap.
-* K^2^ from Windy Gap.
-* Masherbrum  from the Head of  the Godwin Austen.
-* Peak 22,113, East of Windy Gap.
+* [Eastern Side of K^2^ as seen from Camp VI.](ch018.xhtml#b258)
+* [Camp VI and Staircase Peak.](ch018.xhtml#b258a)
+* [First Step of the Godwin Austen Glacier, and Sella Pass.](ch018.xhtml#b260)
+* [Teram Kangri from the Eastern Side of Sella Pass.](ch018.xhtml#b261)
+* [Staircase Peak and the End of the north-eastern Spar of K^2^.](ch018.xhtml#b262)
+* [Staircase Peak, the End of the north-eastern Ridge of K^2^, and the opening on Staircase basin.](ch018.xhtml#b263)
+* [Windy Gap.](ch018.xhtml#b265)
+* [K^2^ from Windy Gap.](ch018.xhtml#b267)
+* [Masherbrum  from the Head of  the Godwin Austen.](ch018.xhtml#b268)
+* [Peak 22,113, East of Windy Gap.](ch018.xhtml#b269)
 * K^2^ from the South.
 * K^2^ from the Godwin Austen, near Concordia.
 * K^2^ at Sunset, seen from the Lower Godwin Austen.
