@@ -155,14 +155,14 @@ progress whole fields and cultivated tracts, and to threaten neighbouring
 villages with ruin. Behaviour so capricious on the part of phenomena which must
 presumably depend upon local conditions common to all, might possibly be
 explained by periodic changes of climate following each other at short
-intervals, as the time required for masses of snow precipitated m the upper
+intervals, as the time required for masses of snow precipitated in the upper
 basins to produce changes in the position of the glacier snouts may vary very
 considerably, according to the shape of the basins and the length and slope of
 the valleys.
 
 The Geological Office of India undertook in 1905 a series of observations on the
 conditions of the glaciers of the western Himalaya, to be repeated at regular
-intervals. There is hope that m a few years the work thus done may lead to some
+intervals. There is hope that in a few years the work thus done may lead to some
 exact conclusions.^[^1003]^ Meantime we may refer to the opinion of Dr. Arthur Neve. who,
 after observing a great number of glaciers in the regions round Kashmir at
 varying intervals of time, is of opinion that they are, on the whole, in a

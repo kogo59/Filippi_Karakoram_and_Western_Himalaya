@@ -396,7 +396,7 @@ By way of exception the fine evening did not prove this time to have been a
 false prophecy, and on rising next morning we were delighted to behold a
 brilliantly clear sky. We lost not a minute in returning to the ridge of the
 col, where for the first time we saw the entire eastern face of K^2^ revealed
-without a trace of mist.^[^1508]^  It looked like another mountain entirely ; and of all
+without a trace of mist.^[^1508]^ It looked like another mountain entirely; and of all
 the manifold aspects of the colossus this is certainly the most imposing, the
 richest and boldest in design. Alas, it is also such as to annihilate the last
 remnant of hope that might linger in the mind of the mountaineer. The cone
@@ -691,8 +691,6 @@ and also Enrico Brocherel. The former had a slightly frost-bitten foot. On the
 ****
 ::::
 
-
-S. 378
 
 #### **Annotations** {.break-before .unnumbered}
 

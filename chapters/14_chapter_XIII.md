@@ -20,7 +20,7 @@ Snowfalls and Avalanches.<br/><br />
 
 THE dawn of May 25th found us up and abroad. The thermometer stood at 15° F. On
 the evening before veils of mist and cloud-curtains had so shrouded the
-landscape that we had not m the least realized the incredible spectacle of
+landscape that we had not in the least realized the incredible spectacle of
 glaciers and mountains which now stood revealed in the pale light of morning.
 The air was perfectly still and just lightly dimmed. like a crystal breathed
 upon, yet clear enough to show every detail of the marvellous scene.^[^1301]^
@@ -86,7 +86,7 @@ Matterhorn.
 The valley appears to end at the foot of the mountain; instead of which it bends
 abruptly north-east, and runs in between K^2^ and the northern slopes of Broad
 Peak. The heavy and massive outline of the latter, surmounted by its three huge
-rounded peaks, comprises m itself almost the whole left side of the Godwin
+rounded peaks, comprises in itself almost the whole left side of the Godwin
 Austen valley. A short broken ridge joins it to Gasherbrum IV^[^1304]^ summit rises above
 the spur dividing its two western glaciers. From the Gasherbrums the chain
 extends toward the south in a tagged edge of rocks and snowy peaks to form the
@@ -279,7 +279,7 @@ is described as a granite formation.
 
 It is probable that the thick-set form and huge mass of Broad Peak rather
 blinded Godwin Austen and Conway to its remarkable height. The result obtained
-by triangulation from Negrotto's data shows 1t to possess a peak 27,132 feet
+by triangulation from Negrotto's data shows it to possess a peak 27,132 feet
 high, flanked by two others of 26,024 and 26,000 feet. No other mountain over
 27,000 feet has been found since 1858, and Burrard considered it improbable that
 there would be further discoveries of peaks 27,000 or even 26,000 feet high. In
@@ -332,7 +332,7 @@ towered up immediately above us, but so foreshortened as to lose much of its
 height—it does not seem possible that it rises to nearly 12,000 feet above us.
 Broad Peak is opposite, across the valley; while to westward rises a beautiful
 snowy range with inaccessible cliffs. It forms the right side of the glacier
-that curves about the western side of K2, and empties itself upon the Godwin
+that curves about the western side of K^2^, and empties itself upon the Godwin
 Austen in a great wave of séracs. To the south there is a spreading view that
 ends in the gentle and reposeful outlines of Bride Peak and the snowy saddle on
 its left.
@@ -461,7 +461,7 @@ the silence was so unbroken as to become oppressive.
 
 On the morning of May 30th all was ready. The weather had not changed and the
 mountains looked sinister. We bade adieu to our leader with good wishes, which
-did not succeed m disguising from ourselves the insecurity we felt as to the
+did not succeed in disguising from ourselves the insecurity we felt as to the
 outcome of his bold undertaking. The simple fact is that these are not mountains
 like other mountains, and one cannot look at them without disquiet and
 foreboding.
@@ -529,7 +529,7 @@ themselves and for the Europeans, extra rope and pickaxes.
 
 In the meanwhile those on the ridge had lost no time, even though the weather
 had again turned adverse. The guides and porters, free from the encumbrance of
-luggage, left the tents m the morning bent on exploring a good stretch of the
+luggage, left the tents in the morning bent on exploring a good stretch of the
 ridge to find out if it offered a chance of ascent before fetching up more
 impedimenta, perhaps uselessly. They climbed rapidly to the saddle, then on up
 the couloir by the rope left, there the day before. This height gained, they

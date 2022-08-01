@@ -307,7 +307,7 @@ be found, it is better to designate peaks simply by their altitudes.
 We now crossed the mouth of another small valley, and at the next opening in the
 wall we left the ice and skirted a gentle grassy slope where Conway had camped
 (Fan Camp), and whence he climbed to a saddle on the ridge, from which he had
-his first sight of K2 and was able to realize the vast dimensions of Broad Peak.
+his first sight of K^2^ and was able to realize the vast dimensions of Broad Peak.
 
 :::: { .wrap-80 }
 ![THE MARBLE PEAK AT THE CORNER BETWEEN THE GODWIN AUSTEN AND THE BALTORO.](Karakoram_216.jpg "THE MARBLE PEAK AT THE CORNER BETWEEN THE GODWIN AUSTEN AND THE BALTORO."){#b216}
@@ -330,7 +330,7 @@ fire from the séracs of the advancing glacier.
 We had now nearly reached the end of the Baltoro valley proper. At a short
 distance from us a promontory from the base of the marble peak ran down to the
 glacier. We knew that this was the last obstacle between us and the sight of the
-Godwin Austen valley and K2, which lay behind it, and we were seized with
+Godwin Austen valley and K^2^, which lay behind it, and we were seized with
 unspeakable restlessness and fear lest the mist should cut us off from the
 long-looked-for reward, which had been in the background of our consciousness
 through every step of the long way.
@@ -342,7 +342,7 @@ through every step of the long way.
 We rounded the spur following the wide sweep of moraine, now grown level and
 even, almost without noticing the vast space of the Concordia amphitheatre
 spread out before us. Suddenly, and without warning, as if a veil had been
-lifted from our eyes, the wide Godwin Austen valley lay before us m its whole
+lifted from our eyes, the wide Godwin Austen valley lay before us in its whole
 length. Down at the end, alone, detached from all the other mountains, soared up
 K^2^, the indisputable sovereign of the region, gigantic and solitary, hidden
 from human sight by innmumerable ranges, jealously defended by a vast throng of

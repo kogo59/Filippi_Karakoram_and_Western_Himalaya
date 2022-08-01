@@ -119,10 +119,10 @@ H.T.P.
 * **H** [Looking North-East from Windy Gap.](https://flic.kr/p/2niw7EC)
 * **I** [From the Southern ridge of the Staircase Peak.](https://flic.kr/p/2niyw2W)
 * **K** [From the central moraine of the Upper Baltoro Glacier.](https://flic.kr/p/2niyD77)
-* **L** Telephotograph from Camp XI.
-* **M** From the terminal rocks of the East buttress of the Vigne Glacier.
+* **L** [Telephotograph from Camp XI.](https://flic.kr/p/2niqJYa)
+* **M** [From the terminal rocks of the East buttress of the Vigne Glacier.](https://flic.kr/p/2niqWWD)
 * **N** [From the central moraine of the Upper Baltoro Glacier.](https://flic.kr/p/2niE5ds)
-* **O** The Upper Baltoro.
+* **O** [The Upper Baltoro.](https://flic.kr/p/2niE8DR)
 * **P** View from a point near Camp XII., below the Chogolisa Saddle.
 * **Q** [Ranges surrounding the Baltoro.](https://flic.kr/p/2niGATU)
 * **R** The Karakoram Ranges from the Burgi La.
@@ -159,12 +159,12 @@ H.T.P.
 * [Broad Peak from Camp VI.](ch018.xhtml#b254)
 * [K^2^ as seen from the East, on the Rocks above Camp VI.](ch018.xhtml#b259)
 * [Staircase Peak from Windy Gap.](ch018.xhtml#b270)
-* K^2^  seen from the South, by telephotography.
-* Bride Peak, from Camp III.
-* K^2^  from the Concordia Amphitheatre.
-* The Baltoro at the Confluence of the Vigne.
-* Mustagh Tower
-* Evening on the Baltoro, from Camp XII.
+* [K^2^ seen from the South, by telephotography.](ch019.xhtml#b279)
+* [Bride Peak, from Camp III.](ch019.xhtml#b284)
+* [K^2^ from the Concordia Amphitheatre.](ch019.xhtml#b288)
+* [The Baltoro at the Confluence of the Vigne.](ch019.xhtml#b293)
+* [Mustagh Tower.](ch019.xhtml#b299)
+* [Evening on the Baltoro, from Camp XII.](ch019.xhtml#b302)
 * Bridge over the Punmah.
 * West side of the Shigar Valley.
 * From the Skoro La, looking West.
@@ -329,10 +329,40 @@ H.T.P.
 * [K^2^ from Windy Gap.](ch018.xhtml#b267)
 * [Masherbrum  from the Head of  the Godwin Austen.](ch018.xhtml#b268)
 * [Peak 22,113, East of Windy Gap.](ch018.xhtml#b269)
-* K^2^ from the South.
-* K^2^ from the Godwin Austen, near Concordia.
-* K^2^ at Sunset, seen from the Lower Godwin Austen.
-* Bride Peak from the Godwin Austen, near Concordia.
-* Surface  Torrent of the Upper Baltory. Golden Throne and Chogolisa Saddle in the Background.
-* The Vigne Glacier and the Tributaries of the  Left Bank.
-* Scene at Sunset, looking North from the Upper Baltoro, K^2^ on the right. Mustagh Tower on the left.
+* [K^2^ from the South.](ch019.xhtml#b278)
+* [K^2^ from the Godwin Austen, near Concordia.](ch019.xhtml#b286)
+* [K^2^ at Sunset, seen from the Lower Godwin Austen.](ch019.xhtml#b287)
+* [Bride Peak from the Godwin Austen, near Concordia.](ch019.xhtml#b290)
+* [Surface Torrent of the Upper Baltory. Golden Throne and Chogolisa Saddle in the Background.](ch019.xhtml#b292)
+* [The Vigne Glacier and the Tributaries of the  Left Bank.](ch019.xhtml#b293a)
+* [Scene at Sunset, looking North from the Upper Baltoro, K^2^ on the right. Mustagh Tower on the left.](ch019.xhtml#b294)
+* [The Northern Wall of Golden Throne, from the Median Moraine of the Upper Baltoro.](ch019.xhtml#b295)
+* [Hidden Peak.](ch019.xhtml#b297)
+* [Eastern Wall of Bride Peak.](ch019.xhtml#b298)
+* [Mitre Peak and Mustagh Tower from our Camp at the Base of Golden Throne.](ch019.xhtml#b299a)
+* [Group of Mountains between Gasherbrum and Hidden Peak.](ch019.xhtml#b300)
+* [Camp XI, after a Snowfall.](ch019.xhtml#b301)
+* Bride Peak, from the Median Moraine of the Upper Baltoro.
+* Camp X 11, and the Crest and Eastern Shoulder of Bride Peak.
+* Séracs of the Chogolisa Gilacter.
+* Among the Séracs of the Chogolisa Glacier.
+* Golden Throne and Pioneer Peak, from the Séracs of the Chogolisa.
+* Detachment of Coolies who were with us in the High Mountains. In the centre, a Jemadar.
+* Bridge over the Punmah.
+* Bridge over the Braldoh at Askoley.
+* Left Bank of the Braldoh, at the Foot of the Skoro La.
+* Camp between Askoley and Skoro La.
+* On the way to Skoro La.
+* Northern Slope of Skoro La.
+* Looking North from Skoro La.
+* Southern Side of Skoro La.
+* The Apricot Crop at Skardu.
+* A Zhak, turned over on the Bank.
+* Boarding the Zhaks.
+* On the Shigar.
+* The Deosai Table Land.
+* Our Camp on the Borders of the Deosai Plain.
+* Sarsingar Lake.
+* Path to Stakpi La
+* On the Jhelum. The Return to Srinagar.
+

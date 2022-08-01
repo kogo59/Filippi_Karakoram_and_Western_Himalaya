@@ -90,8 +90,8 @@ The giant ranges into which His Royal Highness the Duke of the Abruzzi led his
 expedition were not kind to him, nor was the weather favourable. Nevertheless,
 he succeeded in making a step forward toward the conquest of the greatest
 heights after such a struggle as is perhaps unexampled in the history of
-mountaineering. This was,  however, but the last stage of a campaign which was
-rich m mountaineering and exploring work for the purpose of collecting data for
+mountaineering. This was, however, but the last stage of a campaign which was
+rich in mountaineering and exploring work for the purpose of collecting data for
 the more accurate knowledge of a system of ranges that, taken all together, is
 perhaps the grandest in the world. The expedition lived for over two months on
 the Karakoram glaciers. It brought back a large number of photographs of the

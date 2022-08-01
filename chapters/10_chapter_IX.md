@@ -360,7 +360,7 @@ forcing the river into a winding course. The whole valley must at one time have
 been filled with immense masses of detritus mingled with clay to a height of 700
 or 1,000 feet, which were then cut through by the torrent, forming extremely
 steep if not absolutely vertical sections. Above the level of detritus the rock 
-walls are m even more active process of disintegration than in the Indus valley.
+walls are in even more active process of disintegration than in the Indus valley.
 Lydekker has observed traces of glacial action as high as nearly 2,000 feet
 above the bed of the valley—vestiges of the glacier which was once formed by the
 conjunction of the Baltoro, the Punmah and the Biafo.^[^0908]^ The path, which often
@@ -491,7 +491,7 @@ wooden railing just described and a few others, so much larger as to seem
 monumental by comparison, these latter consisting of clay brick walls
 strengthened at the corners by beams incorporated in the masonry. The strange
 thing is that constructions so elaborate are to be found in the Indus valley
-only m the most prosperous villages, whereas the habitations of Chongo are
+only in the most prosperous villages, whereas the habitations of Chongo are
 rudely built of rough stones and mud. Upon the corners of these walled
 enclosures are placed four or more big round stones. The ground within had in
 several cases broken through, showing that under the enclosure the earth was

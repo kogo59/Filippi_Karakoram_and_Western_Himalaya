@@ -68,7 +68,7 @@ his two little boys, whose features were so fine as to be almost effeminate.
 The village of Karmang communicates with the left bank of the Indus and thence
 with the Skardu^[^0809]^ and Kashmir road by means of a long rope bridge across the
 Indus. This was our first experience of these strange bridges known as *jhula*.
-They are to be found m every part of the Himalaya, and are made either of canes
+They are to be found in every part of the Himalaya, and are made either of canes
 fastened together in bundles, or of cords, or of plaited grasses as in Sikkim,
 or of withes of willow or birch twisted into ropes, as in Baltistan and Tibet.
 While the camp was being set up near the bungalow two of our party, impatient to
@@ -454,7 +454,7 @@ of the soldiers and the white, pink or blue turbans of the important personages
 of the place. The polo players were sixteen in number, all dressed in white. The
 Rajah was a first-rate horseman, following and hitting the ball very cleverly
 with his polo mallet, supported by his own side, with their great white cloaks
-fluttering m the sunshine. It was really a fine sight. After the match we went
+fluttering in the sunshine. It was really a fine sight. After the match we went
 back to our work, and the polo ground was invaded by boys, who continued the
 game on foot, practising hand and eve for the difficult art.
 

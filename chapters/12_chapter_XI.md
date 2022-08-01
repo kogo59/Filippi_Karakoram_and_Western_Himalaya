@@ -197,7 +197,7 @@ down from the Simplon to Lago Maggiore through the Valle del Toce. But even if
 we could imagine such a sight, it would not much resemble the Baltoro. No Alpine
 valley has the elements of anything even remotely similar to this vast roadway
 of ice between its precipitous walls. It is beyond all comparison; it differs
-from all Alpine scenery not merely m the scale, but in the actual form and
+from all Alpine scenery not merely in the scale, but in the actual form and
 features.
 
 Our attention was drawn from the Baltoro to fix itself upon the wild rampart to

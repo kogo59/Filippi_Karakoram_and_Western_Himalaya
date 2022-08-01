@@ -101,7 +101,7 @@ from a narrow snowy col (Negrotto Pass), the same which on its other side
 overlooks the base camp. Just below this was erected the Whymper tent brought up
 the day before. Not far from us a rocky crest stands out above the glacier,
 dividing the western wall of K^2^. It rises to its very summit in a series of
-great steps, defined by large towers. 1t is this crest which is outlined against
+great steps, defined by large towers. It is this crest which is outlined against
 the sky and forms the western side of the pyramid as seen from the south. The
 encampment is thus separated from the base camp only by the southwestern ridge
 of K^2^, a horizontal distance of less than two and a half miles. It is,
@@ -325,7 +325,7 @@ heaviness. There can be no other place in the world where man feels himself so
 alone, so isolated, so completely ignored by Nature, so incapable of entering
 into communion with her. Every clear evening we enjoyed the triumphant spectacle
 of Bride Peak, displaying herself in immaculate purity among a cortege of
-bridesmaids all arrayed m virgin white. Her northern wall seemed to gather and
+bridesmaids all arrayed in virgin white. Her northern wall seemed to gather and
 reflect all the last brilliance of the dying day, and gleamed resplendently
 white against a cold blue sky, which toward the zenith became itself pale almost
 to whiteness.

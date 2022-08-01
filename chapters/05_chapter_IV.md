@@ -195,7 +195,7 @@ even up-hill. He makes short halts to get his breath, more or less often
 according to the difficulties of the road. During these brief halts he lifts his
 load off his back, resting it on a sort of crutch formed by a short pole,
 furnished at the top with a wide flat support and at the bottom with a broad
-wooden foot, m order that it may not sink in the soil.
+wooden foot, in order that it may not sink in the soil.
 
 After the daily storm comes the usual clear evening. By half-past eight the
 whole camp is at rest. Near the kiltas which contain the treasury of small
@@ -356,7 +356,7 @@ light we could distinguish the deep walls of the valleys furrowed with gullies
 and chimneys between sharp ridges ending in spires, aiguilles and peaks, covered
 with virgin snow. From the Panjtarni valley a dizzy ridge leads up to the fine
 peak of Ambarnath, above 17,000 feet in height. It all seemed quite
-inaccessible, but it  must look very different m the summertime. Later in the
+inaccessible, but it  must look very different in the summertime. Later in the
 evening a great landslide fell from a considerable height from the wall of the
 Zoji La valley, and hurled itself down with a thundering sound, rolling down
 earth, stones and snow, which spread out in a gigantic fan, covering the path up
