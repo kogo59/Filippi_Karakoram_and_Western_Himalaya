@@ -733,7 +733,6 @@ enterprise of the Duke on Bride Peak, and the close of our campaign.
 
 :::
 
-
 :::: align-center
 ****
 ::::

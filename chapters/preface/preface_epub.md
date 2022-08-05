@@ -123,7 +123,7 @@ H.T.P.
 * **M** [From the terminal rocks of the East buttress of the Vigne Glacier.](https://flic.kr/p/2niqWWD)
 * **N** [From the central moraine of the Upper Baltoro Glacier.](https://flic.kr/p/2niE5ds)
 * **O** [The Upper Baltoro.](https://flic.kr/p/2niE8DR)
-* **P** View from a point near Camp XII., below the Chogolisa Saddle.
+* **P** [View from a point near Camp XII., below the Chogolisa Saddle.](https://flic.kr/p/2niFfi1)
 * **Q** [Ranges surrounding the Baltoro.](https://flic.kr/p/2niGATU)
 * **R** The Karakoram Ranges from the Burgi La.
 * **S** Panorama taken with Paganini’s photogrammetric camera from the Godwin Austen Glacier.
@@ -342,11 +342,11 @@ H.T.P.
 * [Mitre Peak and Mustagh Tower from our Camp at the Base of Golden Throne.](ch019.xhtml#b299a)
 * [Group of Mountains between Gasherbrum and Hidden Peak.](ch019.xhtml#b300)
 * [Camp XI, after a Snowfall.](ch019.xhtml#b301)
-* Bride Peak, from the Median Moraine of the Upper Baltoro.
-* Camp X 11, and the Crest and Eastern Shoulder of Bride Peak.
-* Séracs of the Chogolisa Gilacter.
-* Among the Séracs of the Chogolisa Glacier.
-* Golden Throne and Pioneer Peak, from the Séracs of the Chogolisa.
+* [Bride Peak, from the Median Moraine of the Upper Baltoro.](ch020.xhtml#b304)
+* [Camp XII, and the Crest and Eastern Shoulder of Bride Peak.](ch020.xhtml#b305)
+* [Séracs of the Chogolisa Glacier.](ch020.xhtml#b306)
+* [Among the Séracs of the Chogolisa Glacier.](ch020.xhtml#b308)
+* [Golden Throne and Pioneer Peak, from the Séracs of the Chogolisa.](ch020.xhtml#b314)
 * Detachment of Coolies who were with us in the High Mountains. In the centre, a Jemadar.
 * Bridge over the Punmah.
 * Bridge over the Braldoh at Askoley.
