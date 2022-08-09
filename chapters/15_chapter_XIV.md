@@ -1,4 +1,4 @@
-# CHAPTER XIV<br /> THE SAVOIA GLACIER AND PASS. {#fourteen .unnumbered}
+# CHAPTER XIV.<br /> THE SAVOIA GLACIER AND PASS. {#fourteen .unnumbered}
 
 ::: justified
 

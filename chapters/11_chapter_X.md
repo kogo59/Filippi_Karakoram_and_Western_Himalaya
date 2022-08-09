@@ -1,4 +1,4 @@
-# CHAPTER X<br /> FROM ASKOLEY TO RDOKASS. THE BIAO AND BALTORO GLACIERS. {#ten .unnumbered}
+# CHAPTER X.<br /> FROM ASKOLEY TO RDOKASS. THE BIAO AND BALTORO GLACIERS. {#ten .unnumbered}
 
 ::: justified
 

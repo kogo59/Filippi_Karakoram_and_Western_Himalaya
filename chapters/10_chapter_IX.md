@@ -1,4 +1,4 @@
-# CHAPTER IX<br /> FROM SKARDU TO ASKOLEY. THE SHIGAR AND BRALDOH VALLEYS. {#nine .unnumbered}
+# CHAPTER IX.<br /> FROM SKARDU TO ASKOLEY. THE SHIGAR AND BRALDOH VALLEYS. {#nine .unnumbered}
 
 ::: justified
 

@@ -1,4 +1,4 @@
-# CHAPTER XII<br /> FROM RDOKASS TO THE CONCORDIA AMPHITHEATRE. {#twelve .unnumbered}
+# CHAPTER XII.<br /> FROM RDOKASS TO THE CONCORDIA AMPHITHEATRE. {#twelve .unnumbered}
 
 ::: justified
 

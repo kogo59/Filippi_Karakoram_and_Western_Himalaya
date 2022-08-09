@@ -1,4 +1,4 @@
-# CHAPTER IV<br /> THE SIND VALLEY {#four .unnumbered}
+# CHAPTER IV.<br /> THE SIND VALLEY. {#four .unnumbered}
 
 ::: justified
 

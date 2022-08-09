@@ -125,7 +125,7 @@ H.T.P.
 * **O** [The Upper Baltoro.](https://flic.kr/p/2niE8DR)
 * **P** [View from a point near Camp XII., below the Chogolisa Saddle.](https://flic.kr/p/2niFfi1)
 * **Q** [Ranges surrounding the Baltoro.](https://flic.kr/p/2niGATU)
-* **R** The Karakoram Ranges from the Burgi La.
+* **R** [The Karakoram Ranges from the Burgi La.](https://flic.kr/p/2niyKQV)
 * **S** Panorama taken with Paganini’s photogrammetric camera from the Godwin Austen Glacier.
 
 * MAP From Rawal Pindi to the Baltoro Glacier.
@@ -165,9 +165,9 @@ H.T.P.
 * [The Baltoro at the Confluence of the Vigne.](ch019.xhtml#b293)
 * [Mustagh Tower.](ch019.xhtml#b299)
 * [Evening on the Baltoro, from Camp XII.](ch019.xhtml#b302)
-* Bridge over the Punmah.
-* West side of the Shigar Valley.
-* From the Skoro La, looking West.
+* [Bridge over the Punmah.](ch021.xhtml#b331)
+* [West side of the Shigar Valley.](ch021.xhtml#b340a)
+* [From the Skoro La, looking West.](ch021.xhtml#b340b)
 
 ### LIST OF ILLUSTRATIONS IN THE TEXT.
 
@@ -347,22 +347,22 @@ H.T.P.
 * [Séracs of the Chogolisa Glacier.](ch020.xhtml#b306)
 * [Among the Séracs of the Chogolisa Glacier.](ch020.xhtml#b308)
 * [Golden Throne and Pioneer Peak, from the Séracs of the Chogolisa.](ch020.xhtml#b314)
-* Detachment of Coolies who were with us in the High Mountains. In the centre, a Jemadar.
-* Bridge over the Punmah.
-* Bridge over the Braldoh at Askoley.
-* Left Bank of the Braldoh, at the Foot of the Skoro La.
-* Camp between Askoley and Skoro La.
-* On the way to Skoro La.
-* Northern Slope of Skoro La.
-* Looking North from Skoro La.
-* Southern Side of Skoro La.
-* The Apricot Crop at Skardu.
-* A Zhak, turned over on the Bank.
-* Boarding the Zhaks.
-* On the Shigar.
-* The Deosai Table Land.
-* Our Camp on the Borders of the Deosai Plain.
-* Sarsingar Lake.
-* Path to Stakpi La
-* On the Jhelum. The Return to Srinagar.
+* [Detachment of Coolies who were with us in the High Mountains. In the centre, a Jemadar.](ch021.xhtml#b328)
+* [Bridge over the Punmah.](ch021.xhtml#b330)
+* [Bridge over the Braldoh at Askoley.](ch021.xhtml#b331a)
+* [Left Bank of the Braldoh, at the Foot of the Skoro La.](ch021.xhtml#b332)
+* [Camp between Askoley and Skoro La.](ch021.xhtml#b333)
+* [On the way to Skoro La.](ch021.xhtml#b334)
+* [Northern Slope of Skoro La.](ch021.xhtml#b335)
+* [Looking North from Skoro La.](ch021.xhtml#b336)
+* [Southern Side of Skoro La.](ch021.xhtml#b337)
+* [The Apricot Crop at Skardu.](ch021.xhtml#b339)
+* [A Zhak, turned over on the Bank.](ch021.xhtml#b340)
+* [Boarding the Zhaks.](ch021.xhtml#b341)
+* [On the Shigar.](ch021.xhtml#b342)
+* [The Deosai Table Land.](ch021.xhtml#b345)
+* [Our Camp on the Borders of the Deosai Plain.](ch021.xhtml#b346)
+* [Sarsingar Lake.](ch021.xhtml#b347)
+* [Path to Stakpi La.](ch021.xhtml#b348)
+* [On the Jhelum. The Return to Srinagar.](ch021.xhtml#b350)
 

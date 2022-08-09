@@ -1,4 +1,4 @@
-# CHAPTER VIII<br /> FROM OLTHINGTHANG TO SKARDU. {#eight .unnumbered}
+# CHAPTER VIII.<br /> FROM OLTHINGTHANG TO SKARDU. {#eight .unnumbered}
 
 ::: justified
 

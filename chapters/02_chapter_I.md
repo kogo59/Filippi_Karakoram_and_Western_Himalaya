@@ -1,4 +1,4 @@
-# CHAPTER I<br /> THE HIMALAYA. {#one .unnumbered}
+# CHAPTER I.<br /> THE HIMALAYA. {#one .unnumbered}
 
 ::: justified
 

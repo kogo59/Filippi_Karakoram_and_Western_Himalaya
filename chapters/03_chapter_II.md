@@ -1,4 +1,4 @@
-# CHAPTER II<br /> FROM MARSEILLES TO SRINAGAR {#two .unnumbered}
+# CHAPTER II.<br /> FROM MARSEILLES TO SRINAGAR {#two .unnumbered}
 
 ::: justified
 

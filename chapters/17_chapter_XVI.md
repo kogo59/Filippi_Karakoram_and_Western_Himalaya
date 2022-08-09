@@ -1,4 +1,4 @@
-# CHAPTER XVI<br />FROM THE BASE OF K^2^ TO THE FOOT OF BRIDE PEAK.<br />THE UPPER BALTORO GLACIER.  {#seventeen .unnumbered}
+# CHAPTER XVI.<br />FROM THE BASE OF K^2^ TO THE FOOT OF BRIDE PEAK.<br />THE UPPER BALTORO GLACIER.  {#seventeen .unnumbered}
 
 ::: justified
 

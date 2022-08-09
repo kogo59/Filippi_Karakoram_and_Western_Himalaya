@@ -1,4 +1,4 @@
-# CHAPTER XV<br /> THE UPPER GODWIN AUSTEN GLACIER AND THE EASTERN SLOPES OF K^2^. {#sixteen .unnumbered}
+# CHAPTER XV.<br /> THE UPPER GODWIN AUSTEN GLACIER AND THE EASTERN SLOPES OF K^2^. {#sixteen .unnumbered}
 
 ::: justified
 

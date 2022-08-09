@@ -1,4 +1,4 @@
-# CHAPTER VII<br /> THE INDUS VALLEY. {#seven .unnumbered}
+# CHAPTER VII.<br /> THE INDUS VALLEY. {#seven .unnumbered}
 
 ::: justified
 

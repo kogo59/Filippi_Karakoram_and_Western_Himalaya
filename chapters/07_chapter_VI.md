@@ -1,4 +1,4 @@
-# CHAPTER VI<br /> THE DRAS VALLEY. {#six .unnumbered}
+# CHAPTER VI.<br /> THE DRAS VALLEY. {#six .unnumbered}
 
 ::: justified
 

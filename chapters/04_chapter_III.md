@@ -1,4 +1,4 @@
-# CHAPTER III<br /> KASHMIR {#three .unnumbered}
+# CHAPTER III.<br /> KASHMIR. {#three .unnumbered}
 
 ::: justified
 
