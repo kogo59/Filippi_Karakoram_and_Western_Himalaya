@@ -1,4 +1,4 @@
-# CHAPTER XVII.<br />BRIDE PEAK.  {#eighteen .unnumbered}
+# CHAPTER XVII. <br />BRIDE PEAK.  {#eighteen .unnumbered}
 
 ::: justified
 

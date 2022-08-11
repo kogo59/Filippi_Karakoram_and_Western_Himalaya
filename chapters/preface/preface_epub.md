@@ -126,11 +126,10 @@ H.T.P.
 * **P** [View from a point near Camp XII., below the Chogolisa Saddle.](https://flic.kr/p/2niFfi1)
 * **Q** [Ranges surrounding the Baltoro.](https://flic.kr/p/2niGATU)
 * **R** [The Karakoram Ranges from the Burgi La.](https://flic.kr/p/2niyKQV)
-* **S** Panorama taken with Paganini’s photogrammetric camera from the Godwin Austen Glacier.
+* **S** [Panorama taken with Paganini’s photogrammetric camera from the Godwin Austen Glacier.](https://flic.kr/p/2niEcfX)
 
 * MAP From Rawal Pindi to the Baltoro Glacier.
-* MAP Portion of the Karakoram Range.
-* MAP Portion of the Karakoram Range.
+* [MAP Portion of the Karakoram Range.](https://flic.kr/p/2niwBra)
 
 ## LIST OF ILLUSTRATIONS.
 

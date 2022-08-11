@@ -1,4 +1,4 @@
-# CHAPTER XVIII<br />THE RETURN TO SRINAGAR.  {#nineteen .unnumbered}
+# CHAPTER XVIII. <br />THE RETURN TO SRINAGAR.  {#nineteen .unnumbered}
 
 ::: justified
 
@@ -708,6 +708,6 @@ of the past months of contact with nature.
 
 [^1809]: [*Burgi La*: refer [Burji La](https://en.wikipedia.org/wiki/Burji_La)]{.footnote}
 
-[^1810]: [K. OESTREICH (op. cit.);  ELLSWORTH HUNTINGTON, *The Vale of Kashmir. Bull. Amer. Geog. Soc.* 38, 1900, p. 657.]{.footnote}
+[^1810]: [K. OESTREICH (op. cit.); ELLSWORTH HUNTINGTON, *The Vale of Kashmir. Bull. Amer. Geog. Soc.* 38, 1900, p. 657.]{.footnote}
 
 [^1811]: [*Deosai table-land*: refer [Deosai National Park](https://en.wikipedia.org/wiki/Deosai_National_Park)]{.footnote}
