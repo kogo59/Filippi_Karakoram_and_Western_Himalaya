@@ -17,7 +17,7 @@ The Snow Limit. — Sunsets. <br/><br />
 ![&nbsp;](Karakoram_272.jpg ""){#b272}
 ::::
 
-Our work in the neighbourhood of K^2^ and the glacier basin of the Godwin Austen
+OUR work in the neighbourhood of K^2^ and the glacier basin of the Godwin Austen
 was at an end. The Duke had explored the mountain in detail, its glaciers and
 surrounding ranges on the south, west and east; he had seen and photographed the
 outline of its northern wall, perhaps the most precipitous of all. Despite
@@ -95,7 +95,7 @@ been dragged solely by the insatiability of European curiosity. The brothers
 Schlagintweit made a vain search for a native name both in Baltistan and
 Turkestan, and afterwards proposed the name of Depsang, because they had had so
 splendid a view of the mountain from the plateau of that name near the Karakoram
-pass. K^2 ^is actually indicated by this name in various atlases, chiefly German
+pass. K^2^ is actually indicated by this name in various atlases, chiefly German
 ones. It has not, however, so far as I know, any official sanction. It is
 strange that others among the many visitors to the Karakoram pass, either before
 or after the Schlagintweits, do not mention having seen K^2^ from there or the
@@ -202,7 +202,7 @@ flattening of the surface of the glacier. The walls of the chains could now be
 seen from it almost to them bases. The mountains, divested of their thick
 coating of snow, seemed shrunken and lean, and their glaciers were confined
 within ribs of rock. Live ice gleamed from all the gullies. The Vigne glacier
-had been very white ; now it wound up its broad valley in stripes of moraine.
+had been very white; now it wound up its broad valley in stripes of moraine.
 Only Bride Peak^[^1302]^ and its satellites had kept their whiteness unsullied. The
 former, on its northern wall, is cut with crevasses, betrayed by their deeper
 shadow; they must be of enormous size. On the rocks back of the camp some lean

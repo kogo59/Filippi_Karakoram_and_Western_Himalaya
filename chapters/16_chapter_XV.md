@@ -181,7 +181,7 @@ attempted to climb from the Godwin Austen. At no point of the entire distance is
 there a place where one could gain the ridge directly from the glacier.
 
 :::: { .wrap-80 }
-![CAMP VI AND STAIRCASE PEAK.](Karakoram_258a.jpg "CAMP VI AND STAIRCASE PEAK."){#b258}
+![CAMP VI AND STAIRCASE PEAK.](Karakoram_258a.jpg "CAMP VI AND STAIRCASE PEAK."){#b258a}
 ::::
 
 The farthest height, at the head of the valley, is Staircase Peak (24,078 feet),
@@ -457,12 +457,12 @@ By half-past seven Negrotto had completed a photogrammetric panorama from the
 southern extremity of the col. We dismounted the apparatus, traversed the whole
 length of the ridge of the col and climbed, partly on ice, partly of rock, to
 the foot of the ridge of Staircase Peak. At the base of a sort of turret we made
-another station on a little level cut with our pickaxes i the ice near the
+another station on a little level cut with our pickaxes in the ice near the
 cornice. It was from these two panoramas that the short chain north-east of
 Windy Gap was placed upon the map. We got down directly to the tents without
 going back to the col through a gully full of ice with a light covering of snow.
 Sella in the meantime had taken panoramas [G](https://flic.kr/p/2nivUR5) and
-(https://flic.kr/p/2niw7EC), and photographs of several single mountains. The
+[H](https://flic.kr/p/2niw7EC), and photographs of several single mountains. The
 three guides and seven coolies came up presently from the camp below.
 
 Our work at Windy Gap was finished, and we prepared to return to Camp VI,
@@ -471,7 +471,7 @@ of Staircase Peak, not so much as a mountaineering feat as because it was
 evident that there must be from the top an excellent view of its own
 north-western slopes and those of K^2^, as well as of all the unknown territory
 lying east of Windy Gap, Broad Peak and the Gasherbrums. If too serious
-obstacles offered themselves to an ascent, It might still be possible to descend
+obstacles offered themselves to an ascent, it might still be possible to descend
 to the other side of the col and make an expedition on the glaciers eastward and
 southward, or to round Staircase Peak to a point where the northern wall of K^2^
 might become visible.
@@ -548,7 +548,7 @@ that had fallen in the last days, and an immense avalanche, heralded by a vast
 white cloud, flung itself down for nearly 10,000 feet right in our direction.
 For an instant we were bewildered, not knowing if the distance would be
 sufficient to break the force of this tremendous downfall. But its course became
-slower directly it reached the level of the glacier, where it opened out i a
+slower directly it reached the level of the glacier, where it opened out in a
 great fan. The cloud of powdery snow filled the entire valley, enveloping us
 even where we stood in its dense folds, accompanied by an actual heavy snowfall
 which lasted several minutes. It was almost half an hour before the air cleared
@@ -634,7 +634,7 @@ devotion which he manifested toward our leader.
 Rather than waste the time in doubtful trials, to gain, perhaps, another hundred
 yards, the Duke determined to derive the utmost profit from the work already
 accomplished, by making a thorough observation of the wide horizon which his
-present station (21.650 feet high) enabled him to embrace. He had a splendid
+present station (21,650 feet high) enabled him to embrace. He had a splendid
 view of K^2^, which always showed itself more lofty, more threatening and more
 inaccessible the higher one’s point of view, as if to mock at any competition
 with itself. The photograph which the Duke took of it that morning from the
@@ -708,7 +708,7 @@ and also Enrico Brocherel. The former had a slightly frost-bitten foot. On the
 
 [^1508]: [See panorama [G](https://flic.kr/p/2nivUR5).]{.footnote}
 
-[^1509]: [See panorama [H](https://flic.kr/p/2niw7EC).]{.footnote}
+[^1509]: [See panorama [H](https://flic.kr/p/2niw7EC)]{.footnote}
 
 [^1510]: [The Duke thinks it possible that by this pass one might attain directly to the glacier which was to be seen flowing at the base of Sella Pass, coming from the northern side of K^2^.]{.footnote}
 

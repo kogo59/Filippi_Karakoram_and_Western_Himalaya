@@ -556,7 +556,7 @@ simultaneously.
 
 [^0208]: [F. DREW, *The Jummoo and Kashmir Territories.* London, ed. 1875 and 1877; M. A. STEIN, *Memoir and Maps Illustrating the Ancient Geography of Kashmir.* Calcutta 1899.]{.footnote}
 
-[^0209]: [OSWALDO ROERO DEI MARCHESI DI CORTANZE , *Cashemir, Piccolo e Medio Thibet e Turkestan.* Turin, 1881. 3 vols.]{.footnote}
+[^0209]: [OSWALDO ROERO DEI MARCHESI DI CORTANZE, *Cashemir, Piccolo e Medio Thibet e Turkestan.* Turin, 1881. 3 vols.]{.footnote}
 
 [^0210]: [E. HUNTINGTON, *The Vale of Kashmir. Bull. Amer. Geog. Soc.,* 38, 1906, p. 657.]{.footnote}
 

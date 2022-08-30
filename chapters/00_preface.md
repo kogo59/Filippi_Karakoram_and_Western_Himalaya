@@ -31,7 +31,7 @@ his help in former expeditions.
 
 I am likewise most grateful to Ing. Vittorio Novarese, of the Regio Ufficio
 Geologico, for the geological survey he has written, based upon the observations
-made by the expedition ; and to Professor Romualdo Pirotta and to Dr. Fabrizio
+made by the expedition; and to Professor Romualdo Pirotta and to Dr. Fabrizio
 Cortesi for their botanical notes upon the plants collected by Dr. De Filippi.
 
 I hope that this book, together with the beautiful photographs taken by Cav.
@@ -41,7 +41,7 @@ work will not have been in vain if at prove to be of assistance to future
 explorers of that distant and majestic region.
 
 :::: { .w-50 .float-right  }
-![](Karakoram_002.jpg ""){#b001}
+![](Karakoram_002.jpg ""){#b001a}
 ::::
 
 <br /><br /><br /><br />

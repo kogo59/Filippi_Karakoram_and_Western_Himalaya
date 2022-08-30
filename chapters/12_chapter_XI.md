@@ -202,7 +202,7 @@ features.
 
 Our attention was drawn from the Baltoro to fix itself upon the wild rampart to
 the north, dominated by a forest of unnumbered peaks that are between 20,000 and
-23.000 feet high and show a fantastic variety of form and structure. Not until
+23,000 feet high and show a fantastic variety of form and structure. Not until
 the clouds descended and lay motionless over the high peaks did we return to the
 observation of the valley and its tributaries.
 
@@ -298,7 +298,7 @@ It was useless to think of starting on May 21st. with fresh snow lying a
 hand’s-breadth deep on the Baltoro. Even had it been possible to reduce the
 coolies to move, we could not have gone far over ground so treacherous. even
 when uncovered, that you risk a fall with every step. The snow continued to
-fall, but no longer so heavily ; and later on the sun showed for a few hours,
+fall, but no longer so heavily, and later on the sun showed for a few hours,
 feeble and veiled but sufficiently powerful to melt most of the fresh snow.
 
 During the day Botta was taken with chills and fever. It was a passing illness,
@@ -425,5 +425,5 @@ whence he returned to the base camp with the coolies.
 
 [^1109]: [R. STRACHEY. *On the Physical Geography of the Provinces of Kumaun and Gahrwal,* etc. *Jour. Roy. Geog. Soc.* 21, 1851, p. 57.]{.footnote}
 
-[^1110]: [In the *Grundzüge der Physischen Erdkunde* (A. SUPAN, Leipsic 1911, 5th ed., p. 197) the author says “The giant glacicrs of the Himalaya move much more rapidly (than the Alpine ones), with a speed which in the summer reaches 2-3 up to 7 metres,” etc.]{.footnote}
+[^1110]: [In the *Grundzüge der Physischen Erdkunde* (A. SUPAN, Leipsic 1911, 5th ed., p. 197) the author says “The giant glaciers of the Himalaya move much more rapidly (than the Alpine ones), with a speed which in the summer reaches 2-3 up to 7 metres,” etc.]{.footnote}
 

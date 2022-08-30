@@ -3,7 +3,7 @@
 ::: justified
 
 :::: fs-xs
-The Concordia Amphitheatre. — Confluent Glaciers. — The Southern Wall of K ^2^.
+The Concordia Amphitheatre. — Confluent Glaciers. — The Southern Wall of K^2^.
 — Broad Peak. Gasherbrum, Golden Throne and Bride Peak.— The Arrangement of the
 Moraines, — Photogrammetric Work begun. — The Lower Part of the Godwin Austen. —
 Structure of the Broad-Gasherbrum Range. — Height of Broad Peak determined. —
@@ -129,7 +129,7 @@ It was only on the return journey, after the end of the campaign upon K^2^, that
 the rare occurrence of two days of unbroken fine weather enabled Sella to take
 panoramas [C](https://flic.kr/p/2niqbj2) and [D](https://flic.kr/p/2niqgtf)—the
 first from the outer base angle of the marble peak which stands on the corner
-between the Baltoro and Godwin Austen glaciers (17,329 feet) ; the second from a
+between the Baltoro and Godwin Austen glaciers (17,329 feet); the second from a
 point opposite the first, 17,917 feet high, on the western ridge of the
 Gasherbrum. Taken together these two panoramas show the whole region of which
 the Concordia basin is the centre, and the great glacial streams that converge
@@ -162,7 +162,7 @@ of being in the workshop of nature, and of standing before the primeval chaos
 and cosmos of a world as yet unvisited by the phenomenon of life.
 
 In all Alpine ascents one knows one has left the green fields, the trees and the
-villages only a day behind ; and from all the heights one looks down on the
+villages only a day behind; and from all the heights one looks down on the
 green mantle of verdure covering the earth. The bare rocks and ice are but
 limited areas, not huge unconfined wastes, Here one is conscious of not a single
 manifestation of life. It is comparable to the polar regions in this respect,
@@ -182,7 +182,7 @@ instead of diminishing with familiarity, grew greater every day, and this
 extraordinary region never made a more profound impression upon us than on the
 day when we bade it farewell.
 
-The Concordia basin, lying i the heart of the ranges, at the junction of their
+The Concordia basin, lying in the heart of the ranges, at the junction of their
 greatest glaciers, is the place above all others adapted for the base or point
 of departure for topographical work. Four of the most important trigonometrical
 stations of the region are visible from it—K^2^, Gasherbrum IV, Bride Peak
@@ -260,7 +260,7 @@ Baltoro. Dr. Longstaff, who explored the latter in this same summer of 1909, and
 demonstrated for the first time its vast extent, mentions the fact that it is
 contained within a compound formation, one wall being a granite chain to the
 south-west, and the other, on the north-east, a range of limestone sedimentary
-rock. The latter contains Mount Teram Kangri^[^1306]^, 24.500 feet high.
+rock. The latter contains Mount Teram Kangri^[^1306]^, 24,500 feet high.
 
 The presence of calcareous rock in the Gasherbrums is sufficiently evident, and
 did not entirely escape the observation of Conway. He says that the Concordia
@@ -308,7 +308,7 @@ small séracs along the sides of long flat corridors, which afford an easy and
 rapid progress. Dr. Workman would call these formations "nieves penitentes,
 sérac variety.” The term *nieves penitentes* is generally used to designate
 specific surface formations of the snow in the Andes mountains and other places,
-caused cither by melting or by the wind. Dr. Workman has, i repeated
+caused cither by melting or by the wind. Dr. Workman has, in repeated
 publications,^[^1307]^ urged its extension to all the manifold projections and
 protuberances which render uneven the surface of mountain ice or snow, and has
 created at will a complicated classification, distinguishing eight varieties and
@@ -504,7 +504,7 @@ ice, sticking to the left side in order to utilize the rocky projections. on
 which they fixed more than 100 yards of rope for a help to those coming after
 with the loads. In this way they gained 600 feet, and then succeeded in
 clambering up the rock some 300 feet more. They turned back at about three in
-the afternoon, after having reached a height of certainly 20.000 feet. In two
+the afternoon, after having reached a height of certainly 20,000 feet. In two
 hours they were again at the tents.
 
 In the meantime the Duke had remained alone at the camp, and had taken this
@@ -536,7 +536,7 @@ the couloir by the rope left, there the day before. This height gained, they
 found themselves on a slender crest of rocks quite broken and crumbling, so as
 to give no security to the foot nor safe hold for the hands. On one side went
 down steeply into the valley the couloir by which they had come up; on the other
-a dizzy steep of ice descended to the Godwin Austen, 3.000 feet and more below.
+a dizzy steep of ice descended to the Godwin Austen, 3,000 feet and more below.
 The guides were unanimous in telling the story of the incredible optical
 illusions they suffered, all due to the deceptiveness of these mountains. Slabs
 of rock which at a few yards distant looked like gentle and easy inclines,
@@ -616,7 +616,7 @@ looked grey against the dazzling whiteness of the snow. The mountains were not
 slow to shake off its weight, and on every side the snow barely deposited on the
 steep inclines began to fall off and slide down into the reservoirs which feed
 the sources of the great ice rivers. The valleys resounded with the noise. We
-had a perfectly clear and calm sunset. The lofty snows of K^2 were tinged with
+had a perfectly clear and calm sunset. The lofty snows of K^2^ were tinged with
 yellow. The most delicate wisp of rose-coloured cloud barely hid the topmost
 peak, and a triple shadow flung itself all across the mighty wall, growing more
 and more distinct. The moon, not yet in sight, was projecting upon K^2^ the

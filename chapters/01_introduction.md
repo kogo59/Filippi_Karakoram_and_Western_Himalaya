@@ -34,7 +34,7 @@ observer.
 :::: { .w-50 .float-left  }
 ![&nbsp;](Karakoram_003.jpg ""){#b003}
 ::::
-His Royal Highness Prince Luigi Amedeo of Savoy, Duke of the Abruzzi, was
+HIS Royal Highness Prince Luigi Amedeo of Savoy, Duke of the Abruzzi, was
 induced to set out upon this new expedition chiefly by his desire to contribute
 to the solution of the problem as to the greatest height to which man may attain
 in mountain climbing.

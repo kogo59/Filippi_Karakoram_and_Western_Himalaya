@@ -114,7 +114,7 @@ snow was broken through here and there, leaving short reaches of the torrent
 exposed. The descent is broken into low steps dividing level terraces. and the
 whole drop is very small. Some four miles from the pass we cross under the foot
 of the Metjuhoy glacier, which falls from the Kanipatri and ends not far from
-the path at an altitude of about 10.800 feet. A little farther on, on the ridge
+the path at an altitude of about 10,800 feet. A little farther on, on the ridge
 of the spur, is the bungalow of Minimurg, the highest in  the valley. Here we
 found milk and eggs which Mr. Baines had thoughtfully sent up for us. We rested
 about an hour, admiring the northern glaciers of the Kanipatri group; then we
@@ -237,7 +237,7 @@ not to spend the night writing cits. This was our final farewell to Kashmir.
 
 #### **Annotations** {.break-before .unnumbered}
 
-[^0501]: [According to Burrard the height is 11,300 feet. Oestreich gives 11,319. Guillarmod, owing evidently to a seribal error, calls it “au dessus des 5000 metres“ (about 17.000 feet) (op. cit. pp. 75-80, and at foot of illustration on p. 79).]{.footnote}
+[^0501]: [According to Burrard the height is 11,300 feet. Oestreich gives 11,319. Guillarmod, owing evidently to a seribal error, calls it “au dessus des 5000 metres“ (about 17,000 feet) (op. cit. pp. 75-80, and at foot of illustration on p. 79).]{.footnote}
 
 [^0502]: [In the whole of the Gumber valley the telegraph line has been set up according to the usual rules with telegraph posts, insulators, etc., and must have been entirely rebuilt since 1902, when Guillarmod found the wire “aecroeché a nimporte quoi, un trone mort, une branche d’arbre (?)—souvent méme . . . posé sur la neige, ou recouvert par elle“ (op. cit. p. 78). Only at certain points of the Dras and Indus valleys did we find the wire merely tied to the posts without insulators.]{.footnote}
 

@@ -232,7 +232,7 @@ always been done in the past.
 
 In addition to the two Mustaghs, a number of other passes which used to join
 Baltistan with the Hunza-Nagar district, Yarkand, etc., have been so utterly
-abandoned that i some cases it is no longer known where they were. The only pass
+abandoned that in some cases it is no longer known where they were. The only pass
 which still remains open is the Karakoram, much further eastward and coming
 under the influence of the arid climate of Tibet, thanks to which it is free
 from ice and snow, though nearly 19,000 feet in altitude.
@@ -256,7 +256,7 @@ the river to the left. This terrace forms a sort of table-land with a rolling
 surface, whose transversal ridges are very slightly marked and dotted with
 medium-sized boulders mainly composed of granite in various stages of
 disintegration and rounded at the corners, mingled with blocks and pebbles of
-limestone. The material appears, indeed, to be alluvial deposit ; but the aspect
+limestone. The material appears, indeed, to be alluvial deposit; but the aspect
 and shape of the whole formation, running so characteristically across the
 valley. is such as to suggest an ancient frontal moraine of the Baltoro, which
 now ends five or six miles farther up the valley. Between this terrace, however,
@@ -434,7 +434,7 @@ to the study of glaciology.^[^1013]^
 
 The end of the Baltoro is about 11,000 feet above sea level, some 820 feet above
 the end of the Biafo. Of the other great glaciers of the Karakoram. the Siachen
-ends at an altitude of 11.600 feet (Longstaff, 1909), the Hispar at 10,803 feet
+ends at an altitude of 11,600 feet (Longstaff, 1909), the Hispar at 10,803 feet
 (Workman, 1908), and the Chogo Lungma, the lowest of all, at 9,519 feet
 (Workman, 1902).
 

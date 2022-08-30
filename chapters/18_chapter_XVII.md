@@ -195,7 +195,7 @@ the mountains about the Concordia remained in shadow.
 Up above the Duke had left his camp accompanied by all his caravan, and, finding
 a route shorter than that taken by Sella, gained the spot where the latter had
 camped on the 5th. Thence he continued to ascend, making a wide circuit toward
-the centre of the glacier. until he was sure there were no more obstacles to be
+the centre of the glacier, until he was sure there were no more obstacles to be
 encountered, save that of the deep snow. Then he placed his camp 19,098 feet
 above sea level and some 1,650 feet below Chogolisa Saddle. The weather
 continued to improve all the afternoon, but not until four o'clock did the
@@ -216,7 +216,7 @@ their normal lives, all of which proved how much they had been able to adapt
 themselves, and showed the influence we had gained over them.
 
 Chogolisa Saddle is between the eastern crest of Bride Peak and a rounded icy
-dome 21,653 feet high. on the other side of which is Kondus Saddle, at the foot
+dome 21,653 feet high, on the other side of which is Kondus Saddle, at the foot
 of Golden Throne. This saddle is a little lower than Chogolisa. The day was
 perfect, and the view which the Duke had from his station a very grand one. The
 three summits of Broad Peak were visible, likewise all four of the Gasherbrums,
@@ -246,7 +246,7 @@ tried it. Thus the climbers would begin the actual ascent with forces already
 depleted, and very likely still further weakened by the increasing rarefaction
 of the air. On these grounds the Duke decided to set up an intermediate camp
 with the two Mummery tents and four sleeping-bags. The party of seven left the
-shelter camp early m the morning. They described a broad curve in climbing to
+shelter camp early in the morning. They described a broad curve in climbing to
 the top of the glacier, reaching the steep southern slope of the icy dome
 between Chogolisa and Bride Peak. This they traversed horizontally. The snow
 made very bad and uncertain walking, and they would plunge in half-way up the
@@ -312,12 +312,12 @@ icy crest which runs from north-west to southeast. At the extremities of this
 crest are two other minor summits—21,207 feet on the Baltoro, and another, snowy
 like the first, south of the chain on the Kondus glacier. According to the
 angles read by the Duke, the highest peak of the central group would be the
-second from the north, 23.743 feet high (23,600 feet. Conway). A long snowy
+second from the north, 23,743 feet high (23,600 feet. Conway). A long snowy
 ridge descends thence to the glacier below Kondus Saddle. Upon it is Pioneer
 Peak, climbed by Conway in 1892, with Major Bruce, the guide Zurbriggen, and two
 Gurkas from Nepaul.
 
-Gasherbrum 11 (26,360 feet) seems to be connected with Hidden Peak by a high
+Gasherbrum II (26,360 feet) seems to be connected with Hidden Peak by a high
 crest with a slight depression or col in it, so that the chain is practically
 unbroken from Hidden to Broad Peak. The col probably leads to the Gasherbrum
 glacier of Younghushand. The large group of mountains at the angle between the
@@ -367,7 +367,7 @@ unknown.^[^1704]^
 
 From July 13th to 16th bad weather prevented, as I have already said, any fresh
 assault on the peak. The wind was always south-west and snow fell at frequent
-intervals. The sky was usually covered with a uniform grey cloud ; but great
+intervals. The sky was usually covered with a uniform grey cloud; but great
 cumulus clouds were not lacking, of the sort which with us mean heavy storms
 usually accompanied with lightning. But we, as well as all our predecessors, can
 testify to the complete absence of electrical manifestations in the Karakoram.
@@ -395,7 +395,7 @@ approaching change in the weather.
 |Giuseppe Petigax|70|70 |
 |Enrico Brocherel|70|80 |
 |Emilio Brocherel|74|84|
-Table: List of observations made on the pulse of the party at Chogolisa Saddle, July 14th :
+Table: List of observations made on the pulse of the party at Chogolisa Saddle, July 14th:
 
 The health of the party still remained good. Their experience was quite
 different from that of Dr. Workman, who believes it impossible to sleep at
@@ -549,7 +549,7 @@ days at or above 16,000 feet, and then for another seventeen were never below
 the disadvantage of cramped accommodation, almost constant bad weather, and with
 nourishment reduced from want of appetite. During this period they made two
 ascents, which meant four days of the most fatiguing work, sleeping at 21,673
-and 22,483 feet, and reaching 23.458 and 24,600 feet of altitude.
+and 22,483 feet, and reaching 23,458 and 24,600 feet of altitude.
 
 The height attained by the Duke exceeds by 700 feet the greatest altitude up to
 then achieved by men upon the mountains. In 1883 Graham made a series of notable
@@ -582,11 +582,11 @@ peaks which has been slowly going forward all the while.
 
 In order to avoid a lengthened list I will confine myself here to ascents of
 23,000 feet and over. In 1897 S. M. Vines, a member of the E. A. FitzGerald
-expedition, with the guide A. Burgener, climbed Mount Aconcagua, 23.100 feet
-high. In 1903 Dr. Workman reached a height of 23.394 feet on the ridge of a
+expedition, with the guide A. Burgener, climbed Mount Aconcagua, 23,100 feet
+high. In 1903 Dr. Workman reached a height of 23,394 feet on the ridge of a
 mountain at the head of the Chogo Lungma glacier. Longstaff climbed to a
 considerable height on the ridge of Gurla Mandhata in 1905—probably beyond
-23.000 feet, though instrumental observations of the altitude were lacking. In
+23,000 feet, though instrumental observations of the altitude were lacking. In
 1906 Mrs. Workman climbed a peak of 23,264 feet in the Nun Kun group; and in the
 same year Longstaff conquered Trisul, 23,406 feet. Thus in twenty-six years,
 from 1883 to 1909, no one exceeded the height supposed to have been reached by
@@ -673,7 +673,7 @@ within his grasp.
 
 [^1704]: [See in Novarese's geological appendix the important conclusions concerning the geology of the region and the distribution of the chains and mountain systems, which are based on these observations of the Duke.]{.footnote}
 
-[^1705]: [These barometric calculations could not be referred to the Rdokass base, because the observations were unfortunately broken off on July 15th (see the tables of Prof. Omodei in the Appendix). On the maps of the expedition first published by the Italian Geog. Soc. and the Ital. Alp. Club, the height gained by the Duke is given as 7.493 metres (24,583 feet). This and some other small variations between the present figures and those first published are due to the fact that the readings from the Gilgit Meteorological Station were only later introduced into the calculations, in addition to those of Leh, Skardu and Srinagar.]{.footnote}
+[^1705]: [These barometric calculations could not be referred to the Rdokass base, because the observations were unfortunately broken off on July 15th (see the tables of Prof. Omodei in the Appendix). On the maps of the expedition first published by the Italian Geog. Soc. and the Ital. Alp. Club, the height gained by the Duke is given as 7,493 metres (24,583 feet). This and some other small variations between the present figures and those first published are due to the fact that the readings from the Gilgit Meteorological Station were only later introduced into the calculations, in addition to those of Leh, Skardu and Srinagar.]{.footnote}
 
 [^1706]: [Some noteworthy climbing exploits performed between 1855 and 1883 by members of the Trigonometrical Survey, and until very recently buried among the official records, have been brought to light by Dr. Longstaff. In 1874 J. S. Pococke gained 22,000 feel in Gahrwal, and in the same year W. L. Johnson crossed a mountain crest of Ladakh at a height of 22300 feet, and likewise, in 1865, climbed three peaks of the Kuen Lun chain, north of the Karakoram - E57, E58 and E61, whose respective heights of 21,767, 21,971 and 23,590 feet have been determined by triangulation. I will not dwell upon the doubts cast upon the authenticity of these climbs, merely referring to the article of DR. LONGSTAFF in *Alp. Jour.*  24, 1908 p. 133. See also *Mountain Sickness*, London 1906, by the same author; and A. L. MUMM, *Five Months in the Himalaya*, London 1909, e g]{.footnote}
 

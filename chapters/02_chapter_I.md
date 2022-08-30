@@ -187,7 +187,7 @@ lower peaks, upon one of which, Mount Kamet^[^0115]^, the brothers H. and R.
 Schlagintweit^[^0113]^ reached a height of 22,260 feet in the year
 1855.^[^0110]^ In 1883 W. W. Graham made several ascents in this group, reaching
 23,185 feet on Dunagiri^[^0111]^; and in 1907 Dr. T. G. Longstaff^[^0116]^ reached the
-summit of Trisul^[^0117]^, 23.406 feet.^[^0112]^
+summit of Trisul^[^0117]^, 23,406 feet.^[^0112]^
 
 :::: { .wrap-80  }
 ![THE EVEREST GROUP, FROM CHOONJERMA LA, NEPAUL (14,770 FEET), TAKEN BY TELEPHOTOGRAPHY.](Karakoram_007.jpg "THE EVEREST GROUP, FROM CHOONJERMA LA, NEPAUL (14,770 FEET), TAKEN BY TELEPHOTOGRAPHY"){#b007}
@@ -315,7 +315,7 @@ peaks. Here we have K^2^, the highest mountain at present open to Europeans to
 attempt, only 750 feet lower than Mount Everest.^[^0138]^ The only expedition which had
 ever had a near view of it was of opinion that there were chances of success,
 and Guillarmod expressed himself as decidedly inclined to consider the ascent a
-feasible one. Furthermore, K^2 is surrounded by numerous peaks ranging from
+feasible one. Furthermore, K^2^ is surrounded by numerous peaks ranging from
 26,000 to 27,000 feet, far above the highest point yet reached upon any
 mountain; and there seemed a reasonable probability that some one of these might
 be fairly accessible. Last but not least, the region had been visited by but a
@@ -374,7 +374,7 @@ which travellers have collected from among the natives of Baltistan.
 
 [^0102]: [Col. S. G. Burrard and H. H. Hayden, *A Sketch of the Geography and Geology of the Himalaya Mountains and Tibet.* Calcutta 1907-1909.]{.footnote}
 
-[^0103]: [In the same summer Dr. T. G. Longstaff discovered an imposing peak at the head of the Siachen glacicr, then explored for the first time. He reckoned it to be over 27,000 feet high; but later measurements made by the Trigonometrical Survey in 1911 prove it to be only 24.489 feet (± 100 feet).]{.footnote}
+[^0103]: [In the same summer Dr. T. G. Longstaff discovered an imposing peak at the head of the Siachen glacier, then explored for the first time. He reckoned it to be over 27,000 feet high; but later measurements made by the Trigonometrical Survey in 1911 prove it to be only 24,489 feet (± 100 feet).]{.footnote}
 
 [^0104]: [In the following pages I have not taken note of several ascents to great heights which were made at various points by the topographers of the Trigonometrical Survey of India. I shall have occasion to quote them further on in the course of this work in a critical analysis of the statistics of the ascents to exceptional heights.]{.footnote}
 

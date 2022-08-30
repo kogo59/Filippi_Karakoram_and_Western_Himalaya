@@ -356,7 +356,7 @@ from south-east to northwest as far as Astor, where they terminate with Nanga
 Parbat. This range divides Kashmir from the Indus valley, beyond which lies the
 Karakoram range.^[^0304]^ Therefore, in order to reach the latter from Srinagar the
 Himalaya must first be crossed. The lowest pass in the whole of this end of the
-chain is the Zoji La^[^0305]^ (11.230 feet), at the head of the Sind valley, north-east
+chain is the Zoji La^[^0305]^ (11,230 feet), at the head of the Sind valley, north-east
 of Srinagar. Beyond the pass the Dras valley leads down to the Indus. Next the
 Indus valley is followed northward as far as Skardu. the capital of Baltistan.
 From Skardu the route crosses the Indus and penetrates directly into the

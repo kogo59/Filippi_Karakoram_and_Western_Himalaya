@@ -353,7 +353,7 @@ feet of us.
 
 We crossed the stony delta and reached the oasis. It seemed to us like the
 promised land. The boughs of the apricot trees were weighted with luscious
-fruit, and we could fill our hands by merely rising m the saddle. The mulberry
+fruit, and we could fill our hands by merely rising in the saddle. The mulberry
 trees were black with their harvest, and the fields were full of ripe crops,
 which the natives were garnering. On the roofs of the terraces, on the ground,
 on the threshing-floors, everywhere great sheets of apricots were laid out to
@@ -582,7 +582,7 @@ were plentiful.
 Sella overtook us at our second stage, not far from the western limit of the
 plateau. As we had feared, he was prevented by mists and bad weather from
 completing his photographic campaign in the Karakoram with a panorama which
-would have had greater illustrative value than any taken m the chains
+would have had greater illustrative value than any taken in the chains
 themselves. The disappointment was the more lamentable when the next day proved
 absolutely clear and brilliant. without a vestige of mist. To the west of us,
 back of the mountains bounding the plain, we saw far off the snowy peak of Nanga
@@ -640,7 +640,7 @@ fields were unveiled, and looked at us without embarrassment. The men are tall
 and well built—they are Dards, an Aryan people which inhabits the country
 between Kashmir and the Hindu Kush. They appear to have occupied this region
 since remote antiquity (Stein). They are mainly Sunnite Mohammedans, but there
-are a few Shiites and Ishmaelites as well,
+are a few Shiites and Ishmaelites as well.
 
 There was a great deal of traffic on the road, long convoys of pack animals
 loaded with merchandise. We also met some detachments of well-equipped native

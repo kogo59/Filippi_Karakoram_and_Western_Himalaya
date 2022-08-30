@@ -65,7 +65,7 @@ contrast between the southern and northern exposure on the main ridge, but the
 further you go behind the Himalaya the higher is the limit of the glaciers.^[^0604]^ The
 dryness of the climate is such that in the whole of the trans-Himalayan region
 there are barely six inches of rainfall in the year. Were it a plain it would be
-like the Sahara. Fortunately. however, the highest ridges condense into snow
+like the Sahara. Fortunately, however, the highest ridges condense into snow
 whatever moisture escapes being caught upon the Himalaya, so that, whenever the
 exposure and the slope of the mountains allow it, nevés and glaciers are formed
 which permit the scanty population to support life in spite of their inhuman
@@ -80,7 +80,7 @@ temperature is by no means excessive. The nights are very cool.
 A single valley of vast length winds in deep serpentine curves through the
 ranges and forms a connecting link among the chaos of valleys—the high valley of
 the Indus, which runs through the whole region, with a main trend from
-south-west to north-east, at a height of from 7.000 to 10.000 feet gathering
+south-west to north-east, at a height of from 7,000 to 10,000 feet gathering
 every torrent, every brook, every river that flows down from the springs, the
 snows and the glaciers throughout the whole vast extent of the region.
 
@@ -562,7 +562,7 @@ invariably good-humoured.
 [^0603]: [R. STRACHEY (*On the Physical Geography of the Provinces of Kumaun and Gahrwal,* etc.,
 *Jour. Roy. Geog. Soc.* 21, 1851, p. 57) has observed a difference of more than 3,000 feet in the lowest level of the snows, and one of more than 4,500 feet in the lowest limit reached by the glaciers, between the southern and northern slopes of the Himalaya of Kumaun and Gahrwal. F. DREW (op. cit.) found corresponding differences in the Western Himalaya; S. J. BURRARD (op. cit.) says that the snow line in the Punjab Himalaya is some 2,000 feet lower on the southern than on the northern side.]{.footnote}
 
-[^0604]: [SIR J. D. HOOKER, *Himalayal Journals,*  etc. London 1905. Drew and Burrard also mention the fact, which is plainly manifested by the total absence of glaciers throughout the vast regions of Tibet, which reach or exceed a height of 17,000 or 18.000 feet above sea level.]{.footnote}
+[^0604]: [SIR J. D. HOOKER, *Himalayal Journals,*  etc. London 1905. Drew and Burrard also mention the fact, which is plainly manifested by the total absence of glaciers throughout the vast regions of Tibet, which reach or exceed a height of 17,000 or 18,000 feet above sea level.]{.footnote}
 
 [^0605]: [MEDLICOTT and BLANFORD, *Geology of India.* 2nd ed. Edited by R.D. Oldham. London 1893.]{.footnote}
 

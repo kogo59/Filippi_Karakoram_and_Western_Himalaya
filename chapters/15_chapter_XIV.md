@@ -182,8 +182,8 @@ left, ends with a low group of towers and pinnacles, from which a secondary
 ridge runs down to the glacier, bisecting the top of it. West of this group of
 rocky crags is the broad, curving, ice-covered saddle which was the goal of the
 Duke’s present ascent. On the other side, south-west of the pyramid, stretches
-the long ridge which ends in that satellite to the great peak, 22.490 feet high,
-which i have already described. Lastly, behind the mountains which close the
+the long ridge which ends in that satellite to the great peak, 22,490 feet high,
+which I have already described. Lastly, behind the mountains which close the
 basin to the south, a sharp peak of rock just shows its head, the Crystal Peak
 of our map.
 
@@ -246,7 +246,7 @@ o’clock they had reached the *bergschrund*, where they found the porters we ha
 sent to meet them with hot drinks and the Alpine lanterns. At half-past nine
 they were at the camp. The rapid march testified to their good condition. They
 were not exhausted, despite the sixteen hours of exertion at heights between
-18.000 and nearly 22,000 feet. The excursion to the western side of K^2^ had not
+18,000 and nearly 22,000 feet. The excursion to the western side of K^2^ had not
 revealed any feasible way of ascent to the peak, but it had enabled the Duke to
 locate upon the map a great tributary valley to the Godwin Austen. He gave the
 name Savoia to the new glacier and the pass.

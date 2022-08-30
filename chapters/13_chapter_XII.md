@@ -293,7 +293,7 @@ set up a cairn, which is still standing. From this point Conway ascended a peak
 of the ridge above, 19,400 feet high, which he named Crystal Peak. Thence he
 discovered the Concordia basin and the three mighty glaciers which flow down to
 it—the Godwin Austen, the upper Baltoro and the Vigne. This peak which Conway
-climbed has nothing to do with the one 20.587 feet high which bears the same
+climbed has nothing to do with the one 20,587 feet high which bears the same
 name on our map and lies farther east, almost directly above Doksam. The latter,
 which is very well suited to be a topographical station of reference, owing to
 its striking pointed shape, was provisionally called Crystal Peak by Negrotto in
@@ -356,7 +356,7 @@ mountains group themselves about it, yet without any intrusion upon it or
 interference with its extraordinary upward effort. Its lines are ideally
 proportioned and perfectly balanced, its architectural design is powerful,
 adequate to the majesty of the peak without being heavy; the steepness of its
-sides, its ridges and its glaciersi1s appalling; its rocky wall is 12.000 feet
+sides, its ridges and its glaciersi1s appalling; its rocky wall is 12,000 feet
 high.
 
 For a whole hour we stood absorbed. We gazed, we minutely inspected, we examined

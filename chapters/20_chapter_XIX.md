@@ -340,7 +340,7 @@ system is capable of enduring for a short time, without serious consequences, an
 atmospheric pressure that would correspond to an altitude three times as great
 as that of Mount Everest. But the simple conditions of artificially reduced
 pressure in a closed chamber hardly exist under natural circumstances—for
-instance, m balloon ascents the effect is entirely different. Altitudes of
+instance, in balloon ascents the effect is entirely different. Altitudes of
 between 29,500 and 36,000 feet in other words, a condition of atmospheric
 pressure far less reduced than that easily endured in the closed chamber—have
 been known to cause serious organic disorders and even death to some

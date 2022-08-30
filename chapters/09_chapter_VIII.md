@@ -482,11 +482,11 @@ miles in eleven days among the chains of the western Himalaya.
 
 [^0801]: [Drew quotes an extract from the history of the Emperor Manuel Comnenus, by Johannes Cinnamus, which was communicated to *The Times*  of June 12th, 1874. by an anonymous correspondent, showing that polo was played at Constantinople in the middle of the thirteenth century and that the emperors themselves took part in it. TH. THOMSON (Jour. Roy. Geog. Soc. 19, 1849, p. 25) says that the native name of the game is changau. ROERO DI CORTANZE (op. cit.) calls it *atka*; while according to Ujfalvy *polo* means ball. Vigne has given us one of the best descriptions of the game, while Drew goes minutely into the rules, the dimensions of the ground, the arrangement of the teams, etc.]{.footnote}
 
-[^0802]: [T. THOMSON, *Western Himalaya and Tibet.* London 1852; SIR W. M. CONWAY. op. cit. ; OESTREICH, op. cit.]{.footnote}
+[^0802]: [T. THOMSON, *Western Himalaya and Tibet.* London 1852; SIR W. M. CONWAY. op. cit.; OESTREICH, op. cit.]{.footnote}
 
 [^0803]: [LIEUT.-COL. GODWIN AUSTEN. *Proc. of the Geog. Section of the British Assoc.* (in *Proc. Roy. Geog. Soc. N. S. 5*, 1883, p. 610); SIR JOHN STRACHEY, *India.* London 1888; MEDLICOTT and BLANFORD, op. cit.]{.footnote}
 
-[^0804]: [ELLSWORTH HUNTINGTON, *The Vale of Kashmir. Bull. Amer. Geog. Soc. 38, 1896, p. 657 ;* and *The Pulse of Asia.* London 1897.]{.footnote}
+[^0804]: [ELLSWORTH HUNTINGTON, *The Vale of Kashmir. Bull. Amer. Geog. Soc. 38, 1896, p. 657;* and *The Pulse of Asia.* London 1897.]{.footnote}
 
 [^0805]: [R. D. OLDHAM, *Note on the Glaciation and History of the Sind Valley, Kashmir. Rec Geol Surv. of India,* 31, 1904, p. 142.]{.footnote}
 

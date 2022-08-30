@@ -168,7 +168,7 @@ among the people and our own coolies.
 ![POLO AT SHIGAR.](Karakoram_138.jpg "POLO AT SHIGAR."){#b138}
 ::::
 
-The wide Shigar valley, with its level bed open on every side, makes i marked
+The wide Shigar valley, with its level bed open on every side, makes a marked
 contrast to the gloomy valley of the Indus, so deeply imprisoned between its
 high and precipitous walls. It begins at the meeting of the Basha and Braldoh
 valleys, whose rivers flow together and form the Shigar. Both valleys are narrow
@@ -643,7 +643,7 @@ the country north of the Karakoram, Chinese Turkestan.
 
 
 :::: {  .wrap-100 }
-![Range on the left hand side of the Braldoh Valley (from a height to the North of Askoley, about 13.000 ft.)](Karakoram_158a.jpg "Range on the left hand side of the Braldoh Valley (from a height to the North of Askoley, about 13.000 ft.)"){#b158a}
+![Range on the left hand side of the Braldoh Valley (from a height to the North of Askoley, about 13,000 ft.)](Karakoram_158a.jpg "Range on the left hand side of the Braldoh Valley (from a height to the North of Askoley, about 13,000 ft.)"){#b158a}
 ::::
 
 :::: {  .wrap-100 }
@@ -716,7 +716,7 @@ outbreak of cholera.
 
 [^0908]: [LYDEKKER, *The Geology of Kashmir and Chamba Territories. Mem. of the Geol. Surv. of India*, 22. 1883. p. 186.]{.footnote}
 
-[^0909]: [In addition to the works of the above-named authors, already quoted, see COL. H. C. B. TANNER, *Our Present Knowledge of the Himalayas. Proc. Roy. Geog. Soc. N.S.* 13, 1891, p. 403 ; and the article of CH. RABOT, *Glacial Reservoirs and their Outbursts. Geog. Jour.* 25, 1905, p. 545.]{.footnote}
+[^0909]: [In addition to the works of the above-named authors, already quoted, see COL. H. C. B. TANNER, *Our Present Knowledge of the Himalayas. Proc. Roy. Geog. Soc. N.S.* 13, 1891, p. 403, and the article of CH. RABOT, *Glacial Reservoirs and their Outbursts. Geog. Jour.* 25, 1905, p. 545.]{.footnote}
 
 [^0910]: [According to Conway the shwa are active in the hot days of June and the early part of July.]{.footnote}
 
@@ -732,7 +732,7 @@ outbreak of cholera.
 
 [^0916]: [Beside this spring Godwin Austen mentions three others lower down near the bank of the Braldoh, These were still there in 1902. when the Eckenstein-Pfannl-Guillarmod expedition saw them; but we found no trace of them, and the natives told us that the bank out of which they sprang had been carried away by the river.]{.footnote}
 
-[^0917]: [SIR MARTIN CONWAY gives Askoley a height of 10.360 feet, but this must be a misprint, for he gives the same height to Korophon, farther up, beyond the Biafo glacier (op. cit. pp. 412 and 419). According to the Workmans the fort of Askoley (half a mile to the east of the village) is 10,300 feet.]{.footnote}
+[^0917]: [SIR MARTIN CONWAY gives Askoley a height of 10,360 feet, but this must be a misprint, for he gives the same height to Korophon, farther up, beyond the Biafo glacier (op. cit. pp. 412 and 419). According to the Workmans the fort of Askoley (half a mile to the east of the village) is 10,300 feet.]{.footnote}
 
 [^0918]: [GUILLARMOD (op. cit. p. 146) gives a wholly different version of this raid, confusing the Nagar tribes with the Tibetans, the Hispar with the Mustagh pass, etc.]{.footnote}
 
