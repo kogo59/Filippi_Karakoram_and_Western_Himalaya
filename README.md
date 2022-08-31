@@ -23,3 +23,6 @@ native copyright terms that apply the rule of the shorter term to foreign works.
 
 # Sources
 Karakoram and Western Himalaya. [archive.org vol1](https://archive.org/details/karakoramwestern00defiuoft/mode/2up) and [archive.org vol2](https://archive.org/details/karakoramwestern02defi/page/n3/mode/2up)
+
+# ePUB
+Karakoram and Western Himalaya. [mobileread.com](https://www.mobileread.com/forums/showthread.php?t=348858)

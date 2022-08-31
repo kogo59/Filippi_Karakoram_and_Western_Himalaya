@@ -1857,7 +1857,7 @@ between the minor members of a great chain of mountains and the general
 direction of the whole, and the intricacy of the valley systems, cut back at
 times along the strike-line between minor ranges, and at others across and
 through them, makes it not impossible to find justification for dividing the
-mountain chain, as a whole; into a series of parallel ranges, running along the
+mountain chain, as a whole, into a series of parallel ranges, running along the
 length of the chain. Yet, although it may be possible to adopt a nomenclature
 expressing this view, it does not follow that the names represent what really
 occurs in nature, and there is another aspect of the case which is at least
@@ -2364,7 +2364,7 @@ Poppy.”</small>
 <small>Among the specimens gathered at Skoro La is one with a fasciation of the apex of the axis of the inflorescence and of the inflorescence itself.  This beautiful plant is shown in Fig. I, as photographed.</small>
 
 *Sedum* sect. *Rhodiola* aff. *atropurpureum* Turez.? Rdokass, 13,025 feet; Deosai tableland, about 14,000 feet.<br />
-<small>Our specimens are probably closely related to, if not identical with Sedum *atro-purpureum Turez, of Central Asia. We have no means of comparison to settle the matter with certainty.</small>
+<small>Our specimens are probably closely related to, if not identical with Sedum *atro-purpureum* Turez, of Central Asia. We have no means of comparison to settle the matter with certainty.</small>
 
 *Sedum Ewersii* Ledeb. Conway, op. cit., p. 80. Ascent of Skoro La, north side; 11,000-13,000 feet.
 
