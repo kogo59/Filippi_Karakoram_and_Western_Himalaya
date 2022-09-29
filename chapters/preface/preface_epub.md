@@ -38,7 +38,7 @@ AND<br />
 ::::
 
 :::: { .fs-jumbo .align-center }
-WESTERN HIMLAYA<br />
+WESTERN HIMALAYA<br />
 ::::
 
 :::: { .fs-s .align-center }
