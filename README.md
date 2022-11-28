@@ -1,5 +1,7 @@
 # Karakoram and Western Himalaya.
 
+<img align="right" height="200" src="https://user-images.githubusercontent.com/13177792/193361147-3df7ce66-9d9d-4ed0-8aa7-7856924217df.jpg">
+
 This is a git repository of the source files for the books "Karakoram and Western Himalaya Volume 1 and Volume 2."
 
 <img align="right" height="200" src="https://user-images.githubusercontent.com/13177792/193361147-3df7ce66-9d9d-4ed0-8aa7-7856924217df.jpg">
@@ -11,10 +13,10 @@ Authors:
 * [Vittorio Sella](https://en.wikipedia.org/wiki/Vittorio_Sella) (1859—1943)
 
 # Licenses
-Some or all works by this author are in the public domain in the United States
-because they were published before January 1, 1927. The author died in 1938, so
-works by this author are also in the public domain in countries and areas where
-the copyright term is the author's life plus 80 years or less. Works by this
+Some or all works by this authors are in the public domain in the United States
+because they were published before January 1, 1927. The authors died in 1938,1933,1943 so
+works by this authors are also in the public domain in countries and areas where
+the copyright term is the author's life plus 70 years or less. Works by this
 author may also be in the public domain in countries and areas with longer
 native copyright terms that apply the rule of the shorter term to foreign works.
 
