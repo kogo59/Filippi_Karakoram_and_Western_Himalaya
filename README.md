@@ -1,6 +1,6 @@
 # Karakoram and Western Himalaya.
 
-<img align="right" height="200" src="https://user-images.githubusercontent.com/13177792/193361147-3df7ce66-9d9d-4ed0-8aa7-7856924217df.jpg">
+<img align="right" width="200" src="https://user-images.githubusercontent.com/13177792/193361147-3df7ce66-9d9d-4ed0-8aa7-7856924217df.jpg">
 
 This is a git repository of the source files for the books "Karakoram and Western Himalaya Volume 1 and Volume 2."
 
