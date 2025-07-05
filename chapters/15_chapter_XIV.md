@@ -332,11 +332,6 @@ to whiteness.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Annotations** {.break-before .unnumbered}
 
 [^1401]: [See Chapter XIX.]{.footnote}
 

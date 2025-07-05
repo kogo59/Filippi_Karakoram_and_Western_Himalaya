@@ -494,11 +494,6 @@ company by noisy, gay and shrill neighing.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Annotations** {.break-before .unnumbered}
 
 [^0700]: [*nullah*: refer [Nullah](https://en.wikipedia.org/wiki/Nullah)]{.footnote}
 

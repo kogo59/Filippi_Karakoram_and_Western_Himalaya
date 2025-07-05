@@ -716,12 +716,6 @@ tobacco, tea and sugar.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Annotations** {.break-before .unnumbered}
-
 [^1000]: [*New Mustagh*: refer [Mustagh Pass](https://en.wikipedia.org/wiki/Mustagh_Pass)]{.footnote}
 
 [^1001]: [The terminal snout of the Biafo and the delta between the two rivers are clearly visible in the panorama reproduced opposite p. 158.]{.footnote}

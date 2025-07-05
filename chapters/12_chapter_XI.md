@@ -400,11 +400,6 @@ whence he returned to the base camp with the coolies.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Annotations** {.break-before .unnumbered}
 
 [^1101]: [At altitudes of 17,000 feet and over the low temperature and the rarefaction of the air prevents the casy combustion of ordinary spirits of wine. It is necessary to have absolute alcohol, or at least 96 per cent., to start the Primus lamps and the little lamp of the hypsometer.]{.footnote}
 

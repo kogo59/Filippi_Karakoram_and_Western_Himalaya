@@ -52,6 +52,5 @@ explorers of that distant and majestic region.
 ****
 ::::
 
-### **Annotations** {.break-before .unnumbered}
 
 [^0000]: [*Baltoro glacier*: refer [Baltoro Glacier](https://en.wikipedia.org/wiki/Baltoro_Glacier)]{.footnote}

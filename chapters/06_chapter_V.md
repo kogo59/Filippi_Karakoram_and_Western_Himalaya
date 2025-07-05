@@ -231,11 +231,6 @@ not to spend the night writing cits. This was our final farewell to Kashmir.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Annotations** {.break-before .unnumbered}
 
 [^0501]: [According to Burrard the height is 11,300 feet. Oestreich gives 11,319. Guillarmod, owing evidently to a seribal error, calls it “au dessus des 5000 metres“ (about 17,000 feet) (op. cit. pp. 75-80, and at foot of illustration on p. 79).]{.footnote}
 

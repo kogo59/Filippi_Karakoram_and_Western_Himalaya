@@ -609,12 +609,6 @@ repeat the story of the conquest of the Alps.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Annotations** {.break-before .unnumbered}
-
 [^1900]: [SIR F. E. YOUNGHUSBAND, *The Heart of a Continent*, etc. London 1904, 2nd ed. There are better maps in the articles by the same author in *Proc. Roy. Geog. Soc. N.S.* vol. 10, 1888, p. 485, and vol. 14, 1892, p. 205.]{.footnote}
 
 [^1901]: [The Aghil chain had been seen by G. W. HAYWARD as early as 1868, but he believed it to be the Mustagh or Karakoram. See *Journey from Leh to Yarkand and Kashgar. Proc. Roy. Geog. Soc. 14*, 1869, p. 41; and the article in *Jour. Roy. Geog. Soc.* 40, 1870, p. 33.]{.footnote}

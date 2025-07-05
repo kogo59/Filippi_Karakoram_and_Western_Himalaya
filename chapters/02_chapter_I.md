@@ -362,11 +362,6 @@ which travellers have collected from among the natives of Baltistan.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Annotations** {.break-before .unnumbered}
 
 [^0100]: [*S. G. Burrard*: refer [Sidney Gerald Burrard](https://en.wikipedia.org/wiki/Sidney_Gerald_Burrard)]{.footnote}
 

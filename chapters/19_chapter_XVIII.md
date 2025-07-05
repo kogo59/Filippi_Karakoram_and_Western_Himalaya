@@ -684,11 +684,6 @@ of the past months of contact with nature.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Annotations** {.break-before .unnumbered}
 
 [^1800]: [This panorama, taken with panorama B and the small picture of the lower Baltoro inserted at p 194, gives the whole northern chain of the Baltoro in all its detail.]{.footnote}
 

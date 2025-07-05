@@ -472,11 +472,6 @@ miles in eleven days among the chains of the western Himalaya.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Annotations** {.break-before .unnumbered}
 
 [^0800]: [*Tolti*: refer [Tolti](https://en.wikipedia.org/wiki/Tolti)]{.footnote}
 

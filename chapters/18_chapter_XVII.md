@@ -657,11 +657,6 @@ Duke the prize of so much labour and perseverance, after it had lain almost
 within his grasp.
 :::
 
-:::: align-center
-****
-::::
-
-#### **Annotations** {.break-before .unnumbered}
 
 [^1700]: [*K^8^*: Skilma Gangri	7,422 metres (24,350 ft) on the western flank of the Siachen Glacier.]{.footnote}
 

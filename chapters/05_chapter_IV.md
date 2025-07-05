@@ -372,11 +372,6 @@ rises to melt the bonds of frost which hold the snow fast upon the slopes.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Annotations** {.break-before .unnumbered}
 
 [^0400]: [*Sind valley*: refer [Sind Valley](https://en.wikipedia.org/wiki/Sind_Valley)]{.footnote}
 

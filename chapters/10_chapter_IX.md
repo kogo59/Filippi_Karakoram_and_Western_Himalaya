@@ -692,11 +692,6 @@ outbreak of cholera.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Annotations** {.break-before .unnumbered}
 
 [^0900]: [*markhor*: refer [Markhor](https://en.wikipedia.org/wiki/Markhor)]{.footnote}
 

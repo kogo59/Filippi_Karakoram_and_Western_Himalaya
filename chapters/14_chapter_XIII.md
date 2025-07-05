@@ -635,12 +635,6 @@ On the morrow would begin the execution of a new plan of campaign.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Annotations** {.break-before .unnumbered}
-
 [^1301]: [See the map of the Baltoro and panoramas [C](https://flic.kr/p/2niqbj2) and [D](https://flic.kr/p/2niqgtf).]{.footnote}
 
 [^1302]: [*Bride Peak*: refer [Chogolisa](https://en.wikipedia.org/wiki/Chogolisa)]{.footnote}

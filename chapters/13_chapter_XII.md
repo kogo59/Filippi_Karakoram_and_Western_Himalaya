@@ -371,11 +371,6 @@ ice-plain lost itself to the south in the dim vastness of the upper Baltoro.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Annotations** {.break-before .unnumbered}
 
 [^1200]: [From here Godwin Austen climbed part way up one of the spurs of the southern chain of the Baltoro in order to get a view of K^2^-]{.footnote}
 

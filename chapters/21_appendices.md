@@ -2698,13 +2698,6 @@ Artemisia sp. Valley of the Braldoh, sandy soil.
 :::
 
 
-
-:::: align-center
-****
-::::
-
-#### **Annotations** {.break-before .unnumbered}
-
 [^2000]: [Cf. PAGANINI, *Fotogrammetria.* Milan U. Hoepl 1901.]{.footnote}
 
 [^2001]: [In the original instrument the feet are in one piece.]{.footnote}

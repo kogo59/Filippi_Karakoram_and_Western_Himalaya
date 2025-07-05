@@ -549,11 +549,6 @@ invariably good-humoured.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Annotations** {.break-before .unnumbered}
 
 [^0601]: [*Ippolito Desideri*: refer [Ippolito Desideri](https://en.wikipedia.org/wiki/Ippolito_Desideri)]{.footnote}
 

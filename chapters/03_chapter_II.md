@@ -532,11 +532,6 @@ simultaneously.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Annotations** {.break-before .unnumbered}
 
 [^0200]: [*Courmayeur*: refer [Courmayeur](https://en.wikipedia.org/wiki/Courmayeur)]{.footnote}
 

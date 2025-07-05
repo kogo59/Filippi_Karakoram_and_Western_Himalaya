@@ -455,13 +455,7 @@ Every now and then a dull thud shakes our floating house—it has been struck by
 one of the numerous tree trunks which the river carries down.
 :::
 
-:::: align-center
-****
-::::
-
-#### **Annotations** {.break-before .unnumbered}
-
-[^0300]: [According to KNIGHT and YUNGHUSBAND (opp. citt.) Srinagar signifies ”City of the sun”; according to UJFALVY, “City of healing,” from the Sanscrit ¢ri-nagara (CH. DE UJFALVY, *Les Aryens au nord et qu sud de l'Hindu Kouch.* Paris 1896).]{.footnote}
+[^0300]: [According to KNIGHT and YUNGHUSBAND (opp. citt.) Srinagar signifies ”City of the sun”; according to UJFALVY, “City of healing,” from the Sanscrit Cri-nagara (CH. DE UJFALVY, *Les Aryens au nord et qu sud de l'Hindu Kouch.* Paris 1896).]{.footnote}
 
 [^0301]: [JAMES FERGUSSON, *History of Indian and Eastern Architecture.* 2nd ed. London 1910 2 vols.]{.footnote}
 

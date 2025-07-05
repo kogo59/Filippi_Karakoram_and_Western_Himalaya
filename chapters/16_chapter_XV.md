@@ -687,12 +687,6 @@ and also Enrico Brocherel. The former had a slightly frost-bitten foot. On the
 28th he himself left Windy Gap and rejoined the rest of the party.
 :::
 
-:::: align-center
-****
-::::
-
-
-#### **Annotations** {.break-before .unnumbered}
 
 [^1501]: [The map is constructed “d’aprés les donnécs existantes et les documents de l' expédition rapportés par O. Eckenstein, G. Knowles and Dr. J. Jacot Guillarmod.”]{.footnote}
 
